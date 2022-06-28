@@ -63,10 +63,10 @@ import scipy
 import numpy as np
 import matplotlib.pyplot as plt
 
-def plot_correlation(df, col1, col2, margin_thresh = 30, expression_thresh = 25):
+def plot_correlation(df, col1, col2, margin_thresh = 30, expression_thresh = 25, plot_legend=False):
     p_r2 = scipy.stats.pearsonr(df[col1], df[col2])
     plt.scatter(df[col1], df[col2], c='grey',
-        label='R2 = {:.2f}\n'.format(p_r2[0]) + 'pvalue = {:.2f}'.format(p_r2[1]))
+        label='R2 = {:.2f}\n'.format(p_r2[0]))
 
     # calculate high correlation points
     df['margin'] = np.abs(df[col1] - df[col2])
@@ -84,6 +84,7 @@ def plot_correlation(df, col1, col2, margin_thresh = 30, expression_thresh = 25)
 
     # touch-ups
     plt.axline(xy1=(0, 0), slope=1)
-    plt.legend(handlelength=0, markerscale=0)
+    if plot_legend:
+        plt.legend(handlelength=0, markerscale=0)
 
     return high_corr
