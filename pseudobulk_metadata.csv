@@ -1,0 +1,922 @@
+,patient,treatment,cell_type,infected
+Patient 1-IFNa-Basal-False,Patient 1,IFNa,Basal,False
+Patient 1-IFNa-Basal-True,Patient 1,IFNa,Basal,True
+Patient 1-IFNa-Ciliated-False,Patient 1,IFNa,Ciliated,False
+Patient 1-IFNa-Ciliated-True,Patient 1,IFNa,Ciliated,True
+Patient 1-IFNa-Club-False,Patient 1,IFNa,Club,False
+Patient 1-IFNa-Club-True,Patient 1,IFNa,Club,True
+Patient 1-IFNa-Goblet-False,Patient 1,IFNa,Goblet,False
+Patient 1-IFNa-Goblet-True,Patient 1,IFNa,Goblet,True
+Patient 1-IFNa-Ionocytes-False,Patient 1,IFNa,Ionocytes,False
+Patient 1-IFNa-Ionocytes-True,Patient 1,IFNa,Ionocytes,True
+Patient 1-IFNa-Suprabasal-False,Patient 1,IFNa,Suprabasal,False
+Patient 1-IFNa-Suprabasal-True,Patient 1,IFNa,Suprabasal,True
+Patient 1-IFNa-Suprabasal prolif.-False,Patient 1,IFNa,Suprabasal prolif.,False
+Patient 1-IFNa-Suprabasal prolif.-True,Patient 1,IFNa,Suprabasal prolif.,True
+Patient 1-IFNa-Viral-False,Patient 1,IFNa,Viral,False
+Patient 1-IFNa-Viral-True,Patient 1,IFNa,Viral,True
+Patient 1-IFNa-unk-False,Patient 1,IFNa,unk,False
+Patient 1-IFNa-unk-True,Patient 1,IFNa,unk,True
+Patient 1-IFNa-unk TMSB+ cells-False,Patient 1,IFNa,unk TMSB+ cells,False
+Patient 1-IFNa-unk TMSB+ cells-True,Patient 1,IFNa,unk TMSB+ cells,True
+Patient 1-IFNa + TNFa-Basal-False,Patient 1,IFNa + TNFa,Basal,False
+Patient 1-IFNa + TNFa-Basal-True,Patient 1,IFNa + TNFa,Basal,True
+Patient 1-IFNa + TNFa-Ciliated-False,Patient 1,IFNa + TNFa,Ciliated,False
+Patient 1-IFNa + TNFa-Ciliated-True,Patient 1,IFNa + TNFa,Ciliated,True
+Patient 1-IFNa + TNFa-Club-False,Patient 1,IFNa + TNFa,Club,False
+Patient 1-IFNa + TNFa-Club-True,Patient 1,IFNa + TNFa,Club,True
+Patient 1-IFNa + TNFa-Goblet-False,Patient 1,IFNa + TNFa,Goblet,False
+Patient 1-IFNa + TNFa-Goblet-True,Patient 1,IFNa + TNFa,Goblet,True
+Patient 1-IFNa + TNFa-Ionocytes-False,Patient 1,IFNa + TNFa,Ionocytes,False
+Patient 1-IFNa + TNFa-Ionocytes-True,Patient 1,IFNa + TNFa,Ionocytes,True
+Patient 1-IFNa + TNFa-Suprabasal-False,Patient 1,IFNa + TNFa,Suprabasal,False
+Patient 1-IFNa + TNFa-Suprabasal-True,Patient 1,IFNa + TNFa,Suprabasal,True
+Patient 1-IFNa + TNFa-Suprabasal prolif.-True,Patient 1,IFNa + TNFa,Suprabasal prolif.,True
+Patient 1-IFNa + TNFa-Viral-False,Patient 1,IFNa + TNFa,Viral,False
+Patient 1-IFNa + TNFa-Viral-True,Patient 1,IFNa + TNFa,Viral,True
+Patient 1-IFNa + TNFa-unk-False,Patient 1,IFNa + TNFa,unk,False
+Patient 1-IFNa + TNFa-unk-True,Patient 1,IFNa + TNFa,unk,True
+Patient 1-IFNa + TNFa-unk TMSB+ cells-False,Patient 1,IFNa + TNFa,unk TMSB+ cells,False
+Patient 1-IFNa + TNFa-unk TMSB+ cells-True,Patient 1,IFNa + TNFa,unk TMSB+ cells,True
+Patient 1-IFNg-Basal-False,Patient 1,IFNg,Basal,False
+Patient 1-IFNg-Basal-True,Patient 1,IFNg,Basal,True
+Patient 1-IFNg-Ciliated-False,Patient 1,IFNg,Ciliated,False
+Patient 1-IFNg-Ciliated-True,Patient 1,IFNg,Ciliated,True
+Patient 1-IFNg-Club-False,Patient 1,IFNg,Club,False
+Patient 1-IFNg-Club-True,Patient 1,IFNg,Club,True
+Patient 1-IFNg-Goblet-False,Patient 1,IFNg,Goblet,False
+Patient 1-IFNg-Goblet-True,Patient 1,IFNg,Goblet,True
+Patient 1-IFNg-Ionocytes-False,Patient 1,IFNg,Ionocytes,False
+Patient 1-IFNg-Ionocytes-True,Patient 1,IFNg,Ionocytes,True
+Patient 1-IFNg-Suprabasal-False,Patient 1,IFNg,Suprabasal,False
+Patient 1-IFNg-Suprabasal-True,Patient 1,IFNg,Suprabasal,True
+Patient 1-IFNg-Viral-False,Patient 1,IFNg,Viral,False
+Patient 1-IFNg-Viral-True,Patient 1,IFNg,Viral,True
+Patient 1-IFNg-unk-False,Patient 1,IFNg,unk,False
+Patient 1-IFNg-unk-True,Patient 1,IFNg,unk,True
+Patient 1-IFNg-unk TMSB+ cells-False,Patient 1,IFNg,unk TMSB+ cells,False
+Patient 1-IFNg-unk TMSB+ cells-True,Patient 1,IFNg,unk TMSB+ cells,True
+Patient 1-Sorafenib-Basal-False,Patient 1,Sorafenib,Basal,False
+Patient 1-Sorafenib-Basal-True,Patient 1,Sorafenib,Basal,True
+Patient 1-Sorafenib-Ciliated-False,Patient 1,Sorafenib,Ciliated,False
+Patient 1-Sorafenib-Ciliated-True,Patient 1,Sorafenib,Ciliated,True
+Patient 1-Sorafenib-Club-False,Patient 1,Sorafenib,Club,False
+Patient 1-Sorafenib-Club-True,Patient 1,Sorafenib,Club,True
+Patient 1-Sorafenib-Goblet-False,Patient 1,Sorafenib,Goblet,False
+Patient 1-Sorafenib-Goblet-True,Patient 1,Sorafenib,Goblet,True
+Patient 1-Sorafenib-Ionocytes-False,Patient 1,Sorafenib,Ionocytes,False
+Patient 1-Sorafenib-Ionocytes-True,Patient 1,Sorafenib,Ionocytes,True
+Patient 1-Sorafenib-Suprabasal-False,Patient 1,Sorafenib,Suprabasal,False
+Patient 1-Sorafenib-Suprabasal-True,Patient 1,Sorafenib,Suprabasal,True
+Patient 1-Sorafenib-Suprabasal prolif.-False,Patient 1,Sorafenib,Suprabasal prolif.,False
+Patient 1-Sorafenib-Suprabasal prolif.-True,Patient 1,Sorafenib,Suprabasal prolif.,True
+Patient 1-Sorafenib-Viral-False,Patient 1,Sorafenib,Viral,False
+Patient 1-Sorafenib-Viral-True,Patient 1,Sorafenib,Viral,True
+Patient 1-Sorafenib-unk-False,Patient 1,Sorafenib,unk,False
+Patient 1-Sorafenib-unk-True,Patient 1,Sorafenib,unk,True
+Patient 1-Sorafenib-unk TMSB+ cells-False,Patient 1,Sorafenib,unk TMSB+ cells,False
+Patient 1-Sorafenib-unk TMSB+ cells-True,Patient 1,Sorafenib,unk TMSB+ cells,True
+Patient 1-TGFb2-Basal-False,Patient 1,TGFb2,Basal,False
+Patient 1-TGFb2-Basal-True,Patient 1,TGFb2,Basal,True
+Patient 1-TGFb2-Ciliated-False,Patient 1,TGFb2,Ciliated,False
+Patient 1-TGFb2-Ciliated-True,Patient 1,TGFb2,Ciliated,True
+Patient 1-TGFb2-Club-False,Patient 1,TGFb2,Club,False
+Patient 1-TGFb2-Club-True,Patient 1,TGFb2,Club,True
+Patient 1-TGFb2-Goblet-False,Patient 1,TGFb2,Goblet,False
+Patient 1-TGFb2-Goblet-True,Patient 1,TGFb2,Goblet,True
+Patient 1-TGFb2-Ionocytes-False,Patient 1,TGFb2,Ionocytes,False
+Patient 1-TGFb2-Ionocytes-True,Patient 1,TGFb2,Ionocytes,True
+Patient 1-TGFb2-Suprabasal-False,Patient 1,TGFb2,Suprabasal,False
+Patient 1-TGFb2-Suprabasal-True,Patient 1,TGFb2,Suprabasal,True
+Patient 1-TGFb2-Suprabasal prolif.-False,Patient 1,TGFb2,Suprabasal prolif.,False
+Patient 1-TGFb2-Viral-False,Patient 1,TGFb2,Viral,False
+Patient 1-TGFb2-Viral-True,Patient 1,TGFb2,Viral,True
+Patient 1-TGFb2-unk-False,Patient 1,TGFb2,unk,False
+Patient 1-TGFb2-unk-True,Patient 1,TGFb2,unk,True
+Patient 1-TGFb2-unk TMSB+ cells-False,Patient 1,TGFb2,unk TMSB+ cells,False
+Patient 1-TGFb2-unk TMSB+ cells-True,Patient 1,TGFb2,unk TMSB+ cells,True
+Patient 1-TNFa-Basal-False,Patient 1,TNFa,Basal,False
+Patient 1-TNFa-Basal-True,Patient 1,TNFa,Basal,True
+Patient 1-TNFa-Ciliated-False,Patient 1,TNFa,Ciliated,False
+Patient 1-TNFa-Ciliated-True,Patient 1,TNFa,Ciliated,True
+Patient 1-TNFa-Club-False,Patient 1,TNFa,Club,False
+Patient 1-TNFa-Club-True,Patient 1,TNFa,Club,True
+Patient 1-TNFa-Goblet-False,Patient 1,TNFa,Goblet,False
+Patient 1-TNFa-Goblet-True,Patient 1,TNFa,Goblet,True
+Patient 1-TNFa-Ionocytes-False,Patient 1,TNFa,Ionocytes,False
+Patient 1-TNFa-Ionocytes-True,Patient 1,TNFa,Ionocytes,True
+Patient 1-TNFa-Suprabasal-False,Patient 1,TNFa,Suprabasal,False
+Patient 1-TNFa-Suprabasal-True,Patient 1,TNFa,Suprabasal,True
+Patient 1-TNFa-Suprabasal prolif.-False,Patient 1,TNFa,Suprabasal prolif.,False
+Patient 1-TNFa-Suprabasal prolif.-True,Patient 1,TNFa,Suprabasal prolif.,True
+Patient 1-TNFa-Viral-False,Patient 1,TNFa,Viral,False
+Patient 1-TNFa-Viral-True,Patient 1,TNFa,Viral,True
+Patient 1-TNFa-unk-False,Patient 1,TNFa,unk,False
+Patient 1-TNFa-unk-True,Patient 1,TNFa,unk,True
+Patient 1-TNFa-unk TMSB+ cells-False,Patient 1,TNFa,unk TMSB+ cells,False
+Patient 1-TNFa-unk TMSB+ cells-True,Patient 1,TNFa,unk TMSB+ cells,True
+Patient 1-TNFa + IFNg-Basal-False,Patient 1,TNFa + IFNg,Basal,False
+Patient 1-TNFa + IFNg-Basal-True,Patient 1,TNFa + IFNg,Basal,True
+Patient 1-TNFa + IFNg-Ciliated-False,Patient 1,TNFa + IFNg,Ciliated,False
+Patient 1-TNFa + IFNg-Ciliated-True,Patient 1,TNFa + IFNg,Ciliated,True
+Patient 1-TNFa + IFNg-Club-False,Patient 1,TNFa + IFNg,Club,False
+Patient 1-TNFa + IFNg-Club-True,Patient 1,TNFa + IFNg,Club,True
+Patient 1-TNFa + IFNg-Goblet-False,Patient 1,TNFa + IFNg,Goblet,False
+Patient 1-TNFa + IFNg-Goblet-True,Patient 1,TNFa + IFNg,Goblet,True
+Patient 1-TNFa + IFNg-Ionocytes-False,Patient 1,TNFa + IFNg,Ionocytes,False
+Patient 1-TNFa + IFNg-Ionocytes-True,Patient 1,TNFa + IFNg,Ionocytes,True
+Patient 1-TNFa + IFNg-Suprabasal-False,Patient 1,TNFa + IFNg,Suprabasal,False
+Patient 1-TNFa + IFNg-Suprabasal-True,Patient 1,TNFa + IFNg,Suprabasal,True
+Patient 1-TNFa + IFNg-Suprabasal prolif.-False,Patient 1,TNFa + IFNg,Suprabasal prolif.,False
+Patient 1-TNFa + IFNg-Suprabasal prolif.-True,Patient 1,TNFa + IFNg,Suprabasal prolif.,True
+Patient 1-TNFa + IFNg-Viral-False,Patient 1,TNFa + IFNg,Viral,False
+Patient 1-TNFa + IFNg-Viral-True,Patient 1,TNFa + IFNg,Viral,True
+Patient 1-TNFa + IFNg-unk-False,Patient 1,TNFa + IFNg,unk,False
+Patient 1-TNFa + IFNg-unk-True,Patient 1,TNFa + IFNg,unk,True
+Patient 1-TNFa + IFNg-unk TMSB+ cells-False,Patient 1,TNFa + IFNg,unk TMSB+ cells,False
+Patient 1-TNFa + IFNg-unk TMSB+ cells-True,Patient 1,TNFa + IFNg,unk TMSB+ cells,True
+Patient 1-TNFa + TGFb2-Basal-False,Patient 1,TNFa + TGFb2,Basal,False
+Patient 1-TNFa + TGFb2-Basal-True,Patient 1,TNFa + TGFb2,Basal,True
+Patient 1-TNFa + TGFb2-Ciliated-False,Patient 1,TNFa + TGFb2,Ciliated,False
+Patient 1-TNFa + TGFb2-Ciliated-True,Patient 1,TNFa + TGFb2,Ciliated,True
+Patient 1-TNFa + TGFb2-Club-False,Patient 1,TNFa + TGFb2,Club,False
+Patient 1-TNFa + TGFb2-Club-True,Patient 1,TNFa + TGFb2,Club,True
+Patient 1-TNFa + TGFb2-Goblet-False,Patient 1,TNFa + TGFb2,Goblet,False
+Patient 1-TNFa + TGFb2-Goblet-True,Patient 1,TNFa + TGFb2,Goblet,True
+Patient 1-TNFa + TGFb2-Ionocytes-False,Patient 1,TNFa + TGFb2,Ionocytes,False
+Patient 1-TNFa + TGFb2-Ionocytes-True,Patient 1,TNFa + TGFb2,Ionocytes,True
+Patient 1-TNFa + TGFb2-Suprabasal-False,Patient 1,TNFa + TGFb2,Suprabasal,False
+Patient 1-TNFa + TGFb2-Suprabasal-True,Patient 1,TNFa + TGFb2,Suprabasal,True
+Patient 1-TNFa + TGFb2-Suprabasal prolif.-False,Patient 1,TNFa + TGFb2,Suprabasal prolif.,False
+Patient 1-TNFa + TGFb2-Viral-False,Patient 1,TNFa + TGFb2,Viral,False
+Patient 1-TNFa + TGFb2-Viral-True,Patient 1,TNFa + TGFb2,Viral,True
+Patient 1-TNFa + TGFb2-unk-False,Patient 1,TNFa + TGFb2,unk,False
+Patient 1-TNFa + TGFb2-unk-True,Patient 1,TNFa + TGFb2,unk,True
+Patient 1-TNFa + TGFb2-unk MT high cells-False,Patient 1,TNFa + TGFb2,unk MT high cells,False
+Patient 1-TNFa + TGFb2-unk TMSB+ cells-False,Patient 1,TNFa + TGFb2,unk TMSB+ cells,False
+Patient 1-TNFa + TGFb2-unk TMSB+ cells-True,Patient 1,TNFa + TGFb2,unk TMSB+ cells,True
+Patient 1-TNFa + Tirapazamine-Basal-False,Patient 1,TNFa + Tirapazamine,Basal,False
+Patient 1-TNFa + Tirapazamine-Basal-True,Patient 1,TNFa + Tirapazamine,Basal,True
+Patient 1-TNFa + Tirapazamine-Ciliated-False,Patient 1,TNFa + Tirapazamine,Ciliated,False
+Patient 1-TNFa + Tirapazamine-Ciliated-True,Patient 1,TNFa + Tirapazamine,Ciliated,True
+Patient 1-TNFa + Tirapazamine-Club-False,Patient 1,TNFa + Tirapazamine,Club,False
+Patient 1-TNFa + Tirapazamine-Club-True,Patient 1,TNFa + Tirapazamine,Club,True
+Patient 1-TNFa + Tirapazamine-Goblet-False,Patient 1,TNFa + Tirapazamine,Goblet,False
+Patient 1-TNFa + Tirapazamine-Goblet-True,Patient 1,TNFa + Tirapazamine,Goblet,True
+Patient 1-TNFa + Tirapazamine-Ionocytes-False,Patient 1,TNFa + Tirapazamine,Ionocytes,False
+Patient 1-TNFa + Tirapazamine-Ionocytes-True,Patient 1,TNFa + Tirapazamine,Ionocytes,True
+Patient 1-TNFa + Tirapazamine-Suprabasal-False,Patient 1,TNFa + Tirapazamine,Suprabasal,False
+Patient 1-TNFa + Tirapazamine-Suprabasal-True,Patient 1,TNFa + Tirapazamine,Suprabasal,True
+Patient 1-TNFa + Tirapazamine-Suprabasal prolif.-True,Patient 1,TNFa + Tirapazamine,Suprabasal prolif.,True
+Patient 1-TNFa + Tirapazamine-Viral-False,Patient 1,TNFa + Tirapazamine,Viral,False
+Patient 1-TNFa + Tirapazamine-Viral-True,Patient 1,TNFa + Tirapazamine,Viral,True
+Patient 1-TNFa + Tirapazamine-unk-False,Patient 1,TNFa + Tirapazamine,unk,False
+Patient 1-TNFa + Tirapazamine-unk-True,Patient 1,TNFa + Tirapazamine,unk,True
+Patient 1-TNFa + Tirapazamine-unk TMSB+ cells-False,Patient 1,TNFa + Tirapazamine,unk TMSB+ cells,False
+Patient 1-TNFa + Tirapazamine-unk TMSB+ cells-True,Patient 1,TNFa + Tirapazamine,unk TMSB+ cells,True
+Patient 1-Tirapazamine-Basal-False,Patient 1,Tirapazamine,Basal,False
+Patient 1-Tirapazamine-Basal-True,Patient 1,Tirapazamine,Basal,True
+Patient 1-Tirapazamine-Ciliated-False,Patient 1,Tirapazamine,Ciliated,False
+Patient 1-Tirapazamine-Ciliated-True,Patient 1,Tirapazamine,Ciliated,True
+Patient 1-Tirapazamine-Club-False,Patient 1,Tirapazamine,Club,False
+Patient 1-Tirapazamine-Club-True,Patient 1,Tirapazamine,Club,True
+Patient 1-Tirapazamine-Goblet-False,Patient 1,Tirapazamine,Goblet,False
+Patient 1-Tirapazamine-Goblet-True,Patient 1,Tirapazamine,Goblet,True
+Patient 1-Tirapazamine-Ionocytes-False,Patient 1,Tirapazamine,Ionocytes,False
+Patient 1-Tirapazamine-Ionocytes-True,Patient 1,Tirapazamine,Ionocytes,True
+Patient 1-Tirapazamine-Suprabasal-False,Patient 1,Tirapazamine,Suprabasal,False
+Patient 1-Tirapazamine-Suprabasal-True,Patient 1,Tirapazamine,Suprabasal,True
+Patient 1-Tirapazamine-Suprabasal prolif.-True,Patient 1,Tirapazamine,Suprabasal prolif.,True
+Patient 1-Tirapazamine-Viral-False,Patient 1,Tirapazamine,Viral,False
+Patient 1-Tirapazamine-Viral-True,Patient 1,Tirapazamine,Viral,True
+Patient 1-Tirapazamine-unk-False,Patient 1,Tirapazamine,unk,False
+Patient 1-Tirapazamine-unk-True,Patient 1,Tirapazamine,unk,True
+Patient 1-Tirapazamine-unk TMSB+ cells-False,Patient 1,Tirapazamine,unk TMSB+ cells,False
+Patient 1-Tirapazamine-unk TMSB+ cells-True,Patient 1,Tirapazamine,unk TMSB+ cells,True
+Patient 1-mock-Basal-False,Patient 1,mock,Basal,False
+Patient 1-mock-Basal-True,Patient 1,mock,Basal,True
+Patient 1-mock-Ciliated-False,Patient 1,mock,Ciliated,False
+Patient 1-mock-Ciliated-True,Patient 1,mock,Ciliated,True
+Patient 1-mock-Club-False,Patient 1,mock,Club,False
+Patient 1-mock-Club-True,Patient 1,mock,Club,True
+Patient 1-mock-Goblet-False,Patient 1,mock,Goblet,False
+Patient 1-mock-Goblet-True,Patient 1,mock,Goblet,True
+Patient 1-mock-Ionocytes-False,Patient 1,mock,Ionocytes,False
+Patient 1-mock-Ionocytes-True,Patient 1,mock,Ionocytes,True
+Patient 1-mock-Suprabasal-False,Patient 1,mock,Suprabasal,False
+Patient 1-mock-Suprabasal-True,Patient 1,mock,Suprabasal,True
+Patient 1-mock-Suprabasal prolif.-False,Patient 1,mock,Suprabasal prolif.,False
+Patient 1-mock-Suprabasal prolif.-True,Patient 1,mock,Suprabasal prolif.,True
+Patient 1-mock-Viral-False,Patient 1,mock,Viral,False
+Patient 1-mock-Viral-True,Patient 1,mock,Viral,True
+Patient 1-mock-unk-False,Patient 1,mock,unk,False
+Patient 1-mock-unk-True,Patient 1,mock,unk,True
+Patient 1-mock-unk TMSB+ cells-False,Patient 1,mock,unk TMSB+ cells,False
+Patient 1-mock-unk TMSB+ cells-True,Patient 1,mock,unk TMSB+ cells,True
+Patient 2-IFNa-Basal-False,Patient 2,IFNa,Basal,False
+Patient 2-IFNa-Basal-True,Patient 2,IFNa,Basal,True
+Patient 2-IFNa-Ciliated-False,Patient 2,IFNa,Ciliated,False
+Patient 2-IFNa-Ciliated-True,Patient 2,IFNa,Ciliated,True
+Patient 2-IFNa-Club-False,Patient 2,IFNa,Club,False
+Patient 2-IFNa-Club-True,Patient 2,IFNa,Club,True
+Patient 2-IFNa-Goblet-False,Patient 2,IFNa,Goblet,False
+Patient 2-IFNa-Goblet-True,Patient 2,IFNa,Goblet,True
+Patient 2-IFNa-Ionocytes-False,Patient 2,IFNa,Ionocytes,False
+Patient 2-IFNa-Ionocytes-True,Patient 2,IFNa,Ionocytes,True
+Patient 2-IFNa-Suprabasal-False,Patient 2,IFNa,Suprabasal,False
+Patient 2-IFNa-Suprabasal-True,Patient 2,IFNa,Suprabasal,True
+Patient 2-IFNa-Suprabasal prolif.-False,Patient 2,IFNa,Suprabasal prolif.,False
+Patient 2-IFNa-Suprabasal prolif.-True,Patient 2,IFNa,Suprabasal prolif.,True
+Patient 2-IFNa-Viral-False,Patient 2,IFNa,Viral,False
+Patient 2-IFNa-Viral-True,Patient 2,IFNa,Viral,True
+Patient 2-IFNa-unk-False,Patient 2,IFNa,unk,False
+Patient 2-IFNa-unk-True,Patient 2,IFNa,unk,True
+Patient 2-IFNa-unk TMSB+ cells-False,Patient 2,IFNa,unk TMSB+ cells,False
+Patient 2-IFNa-unk TMSB+ cells-True,Patient 2,IFNa,unk TMSB+ cells,True
+Patient 2-IFNg-Basal-False,Patient 2,IFNg,Basal,False
+Patient 2-IFNg-Basal-True,Patient 2,IFNg,Basal,True
+Patient 2-IFNg-Ciliated-False,Patient 2,IFNg,Ciliated,False
+Patient 2-IFNg-Ciliated-True,Patient 2,IFNg,Ciliated,True
+Patient 2-IFNg-Club-False,Patient 2,IFNg,Club,False
+Patient 2-IFNg-Club-True,Patient 2,IFNg,Club,True
+Patient 2-IFNg-Goblet-False,Patient 2,IFNg,Goblet,False
+Patient 2-IFNg-Goblet-True,Patient 2,IFNg,Goblet,True
+Patient 2-IFNg-Ionocytes-False,Patient 2,IFNg,Ionocytes,False
+Patient 2-IFNg-Ionocytes-True,Patient 2,IFNg,Ionocytes,True
+Patient 2-IFNg-Suprabasal-False,Patient 2,IFNg,Suprabasal,False
+Patient 2-IFNg-Suprabasal-True,Patient 2,IFNg,Suprabasal,True
+Patient 2-IFNg-Suprabasal prolif.-False,Patient 2,IFNg,Suprabasal prolif.,False
+Patient 2-IFNg-Viral-False,Patient 2,IFNg,Viral,False
+Patient 2-IFNg-Viral-True,Patient 2,IFNg,Viral,True
+Patient 2-IFNg-unk-False,Patient 2,IFNg,unk,False
+Patient 2-IFNg-unk-True,Patient 2,IFNg,unk,True
+Patient 2-IFNg-unk MT high cells-False,Patient 2,IFNg,unk MT high cells,False
+Patient 2-IFNg-unk TMSB+ cells-False,Patient 2,IFNg,unk TMSB+ cells,False
+Patient 2-IFNg-unk TMSB+ cells-True,Patient 2,IFNg,unk TMSB+ cells,True
+Patient 2-TGFb2-Basal-False,Patient 2,TGFb2,Basal,False
+Patient 2-TGFb2-Basal-True,Patient 2,TGFb2,Basal,True
+Patient 2-TGFb2-Ciliated-False,Patient 2,TGFb2,Ciliated,False
+Patient 2-TGFb2-Ciliated-True,Patient 2,TGFb2,Ciliated,True
+Patient 2-TGFb2-Club-False,Patient 2,TGFb2,Club,False
+Patient 2-TGFb2-Club-True,Patient 2,TGFb2,Club,True
+Patient 2-TGFb2-Goblet-False,Patient 2,TGFb2,Goblet,False
+Patient 2-TGFb2-Goblet-True,Patient 2,TGFb2,Goblet,True
+Patient 2-TGFb2-Ionocytes-False,Patient 2,TGFb2,Ionocytes,False
+Patient 2-TGFb2-Ionocytes-True,Patient 2,TGFb2,Ionocytes,True
+Patient 2-TGFb2-Suprabasal-False,Patient 2,TGFb2,Suprabasal,False
+Patient 2-TGFb2-Suprabasal-True,Patient 2,TGFb2,Suprabasal,True
+Patient 2-TGFb2-Suprabasal prolif.-False,Patient 2,TGFb2,Suprabasal prolif.,False
+Patient 2-TGFb2-Viral-False,Patient 2,TGFb2,Viral,False
+Patient 2-TGFb2-Viral-True,Patient 2,TGFb2,Viral,True
+Patient 2-TGFb2-unk-False,Patient 2,TGFb2,unk,False
+Patient 2-TGFb2-unk-True,Patient 2,TGFb2,unk,True
+Patient 2-TGFb2-unk MT high cells-False,Patient 2,TGFb2,unk MT high cells,False
+Patient 2-TGFb2-unk MT high cells-True,Patient 2,TGFb2,unk MT high cells,True
+Patient 2-TGFb2-unk TMSB+ cells-False,Patient 2,TGFb2,unk TMSB+ cells,False
+Patient 2-TGFb2-unk TMSB+ cells-True,Patient 2,TGFb2,unk TMSB+ cells,True
+Patient 2-TNFa-Basal-False,Patient 2,TNFa,Basal,False
+Patient 2-TNFa-Basal-True,Patient 2,TNFa,Basal,True
+Patient 2-TNFa-Ciliated-False,Patient 2,TNFa,Ciliated,False
+Patient 2-TNFa-Ciliated-True,Patient 2,TNFa,Ciliated,True
+Patient 2-TNFa-Club-False,Patient 2,TNFa,Club,False
+Patient 2-TNFa-Club-True,Patient 2,TNFa,Club,True
+Patient 2-TNFa-Goblet-False,Patient 2,TNFa,Goblet,False
+Patient 2-TNFa-Goblet-True,Patient 2,TNFa,Goblet,True
+Patient 2-TNFa-Ionocytes-False,Patient 2,TNFa,Ionocytes,False
+Patient 2-TNFa-Ionocytes-True,Patient 2,TNFa,Ionocytes,True
+Patient 2-TNFa-Suprabasal-False,Patient 2,TNFa,Suprabasal,False
+Patient 2-TNFa-Suprabasal-True,Patient 2,TNFa,Suprabasal,True
+Patient 2-TNFa-Suprabasal prolif.-False,Patient 2,TNFa,Suprabasal prolif.,False
+Patient 2-TNFa-Suprabasal prolif.-True,Patient 2,TNFa,Suprabasal prolif.,True
+Patient 2-TNFa-Viral-False,Patient 2,TNFa,Viral,False
+Patient 2-TNFa-Viral-True,Patient 2,TNFa,Viral,True
+Patient 2-TNFa-unk-False,Patient 2,TNFa,unk,False
+Patient 2-TNFa-unk-True,Patient 2,TNFa,unk,True
+Patient 2-TNFa-unk MT high cells-False,Patient 2,TNFa,unk MT high cells,False
+Patient 2-TNFa-unk MT high cells-True,Patient 2,TNFa,unk MT high cells,True
+Patient 2-TNFa-unk TMSB+ cells-False,Patient 2,TNFa,unk TMSB+ cells,False
+Patient 2-TNFa-unk TMSB+ cells-True,Patient 2,TNFa,unk TMSB+ cells,True
+Patient 2-Tirapazamine-Basal-False,Patient 2,Tirapazamine,Basal,False
+Patient 2-Tirapazamine-Basal-True,Patient 2,Tirapazamine,Basal,True
+Patient 2-Tirapazamine-Ciliated-False,Patient 2,Tirapazamine,Ciliated,False
+Patient 2-Tirapazamine-Ciliated-True,Patient 2,Tirapazamine,Ciliated,True
+Patient 2-Tirapazamine-Club-False,Patient 2,Tirapazamine,Club,False
+Patient 2-Tirapazamine-Club-True,Patient 2,Tirapazamine,Club,True
+Patient 2-Tirapazamine-Goblet-False,Patient 2,Tirapazamine,Goblet,False
+Patient 2-Tirapazamine-Goblet-True,Patient 2,Tirapazamine,Goblet,True
+Patient 2-Tirapazamine-Ionocytes-False,Patient 2,Tirapazamine,Ionocytes,False
+Patient 2-Tirapazamine-Ionocytes-True,Patient 2,Tirapazamine,Ionocytes,True
+Patient 2-Tirapazamine-Suprabasal-False,Patient 2,Tirapazamine,Suprabasal,False
+Patient 2-Tirapazamine-Suprabasal-True,Patient 2,Tirapazamine,Suprabasal,True
+Patient 2-Tirapazamine-Viral-False,Patient 2,Tirapazamine,Viral,False
+Patient 2-Tirapazamine-Viral-True,Patient 2,Tirapazamine,Viral,True
+Patient 2-Tirapazamine-unk-False,Patient 2,Tirapazamine,unk,False
+Patient 2-Tirapazamine-unk-True,Patient 2,Tirapazamine,unk,True
+Patient 2-Tirapazamine-unk TMSB+ cells-False,Patient 2,Tirapazamine,unk TMSB+ cells,False
+Patient 2-Tirapazamine-unk TMSB+ cells-True,Patient 2,Tirapazamine,unk TMSB+ cells,True
+Patient 2-mock-Basal-False,Patient 2,mock,Basal,False
+Patient 2-mock-Basal-True,Patient 2,mock,Basal,True
+Patient 2-mock-Ciliated-False,Patient 2,mock,Ciliated,False
+Patient 2-mock-Ciliated-True,Patient 2,mock,Ciliated,True
+Patient 2-mock-Club-False,Patient 2,mock,Club,False
+Patient 2-mock-Club-True,Patient 2,mock,Club,True
+Patient 2-mock-Goblet-False,Patient 2,mock,Goblet,False
+Patient 2-mock-Goblet-True,Patient 2,mock,Goblet,True
+Patient 2-mock-Ionocytes-False,Patient 2,mock,Ionocytes,False
+Patient 2-mock-Ionocytes-True,Patient 2,mock,Ionocytes,True
+Patient 2-mock-Suprabasal-False,Patient 2,mock,Suprabasal,False
+Patient 2-mock-Suprabasal-True,Patient 2,mock,Suprabasal,True
+Patient 2-mock-Suprabasal prolif.-False,Patient 2,mock,Suprabasal prolif.,False
+Patient 2-mock-Suprabasal prolif.-True,Patient 2,mock,Suprabasal prolif.,True
+Patient 2-mock-Viral-False,Patient 2,mock,Viral,False
+Patient 2-mock-Viral-True,Patient 2,mock,Viral,True
+Patient 2-mock-unk-False,Patient 2,mock,unk,False
+Patient 2-mock-unk-True,Patient 2,mock,unk,True
+Patient 2-mock-unk MT high cells-False,Patient 2,mock,unk MT high cells,False
+Patient 2-mock-unk TMSB+ cells-False,Patient 2,mock,unk TMSB+ cells,False
+Patient 2-mock-unk TMSB+ cells-True,Patient 2,mock,unk TMSB+ cells,True
+Patient 3-IFNL-Basal-False,Patient 3,IFNL,Basal,False
+Patient 3-IFNL-Basal-True,Patient 3,IFNL,Basal,True
+Patient 3-IFNL-Ciliated-False,Patient 3,IFNL,Ciliated,False
+Patient 3-IFNL-Ciliated-True,Patient 3,IFNL,Ciliated,True
+Patient 3-IFNL-Club-False,Patient 3,IFNL,Club,False
+Patient 3-IFNL-Club-True,Patient 3,IFNL,Club,True
+Patient 3-IFNL-Goblet-False,Patient 3,IFNL,Goblet,False
+Patient 3-IFNL-Goblet-True,Patient 3,IFNL,Goblet,True
+Patient 3-IFNL-Ionocytes-False,Patient 3,IFNL,Ionocytes,False
+Patient 3-IFNL-Ionocytes-True,Patient 3,IFNL,Ionocytes,True
+Patient 3-IFNL-Suprabasal-False,Patient 3,IFNL,Suprabasal,False
+Patient 3-IFNL-Suprabasal-True,Patient 3,IFNL,Suprabasal,True
+Patient 3-IFNL-Suprabasal prolif.-False,Patient 3,IFNL,Suprabasal prolif.,False
+Patient 3-IFNL-Suprabasal prolif.-True,Patient 3,IFNL,Suprabasal prolif.,True
+Patient 3-IFNL-unk-False,Patient 3,IFNL,unk,False
+Patient 3-IFNL-unk MT high cells-False,Patient 3,IFNL,unk MT high cells,False
+Patient 3-IFNL-unk MT high cells-True,Patient 3,IFNL,unk MT high cells,True
+Patient 3-IFNL-unk TMSB+ cells-True,Patient 3,IFNL,unk TMSB+ cells,True
+Patient 3-IFNa-Basal-False,Patient 3,IFNa,Basal,False
+Patient 3-IFNa-Basal-True,Patient 3,IFNa,Basal,True
+Patient 3-IFNa-Ciliated-False,Patient 3,IFNa,Ciliated,False
+Patient 3-IFNa-Ciliated-True,Patient 3,IFNa,Ciliated,True
+Patient 3-IFNa-Club-False,Patient 3,IFNa,Club,False
+Patient 3-IFNa-Club-True,Patient 3,IFNa,Club,True
+Patient 3-IFNa-Goblet-False,Patient 3,IFNa,Goblet,False
+Patient 3-IFNa-Goblet-True,Patient 3,IFNa,Goblet,True
+Patient 3-IFNa-Ionocytes-False,Patient 3,IFNa,Ionocytes,False
+Patient 3-IFNa-Ionocytes-True,Patient 3,IFNa,Ionocytes,True
+Patient 3-IFNa-Suprabasal-False,Patient 3,IFNa,Suprabasal,False
+Patient 3-IFNa-Suprabasal-True,Patient 3,IFNa,Suprabasal,True
+Patient 3-IFNa-Suprabasal prolif.-False,Patient 3,IFNa,Suprabasal prolif.,False
+Patient 3-IFNa-Suprabasal prolif.-True,Patient 3,IFNa,Suprabasal prolif.,True
+Patient 3-IFNa-Viral-True,Patient 3,IFNa,Viral,True
+Patient 3-IFNa-unk MT high cells-False,Patient 3,IFNa,unk MT high cells,False
+Patient 3-IFNa-unk MT high cells-True,Patient 3,IFNa,unk MT high cells,True
+Patient 3-IFNa + TNFa-Basal-False,Patient 3,IFNa + TNFa,Basal,False
+Patient 3-IFNa + TNFa-Basal-True,Patient 3,IFNa + TNFa,Basal,True
+Patient 3-IFNa + TNFa-Ciliated-False,Patient 3,IFNa + TNFa,Ciliated,False
+Patient 3-IFNa + TNFa-Ciliated-True,Patient 3,IFNa + TNFa,Ciliated,True
+Patient 3-IFNa + TNFa-Club-False,Patient 3,IFNa + TNFa,Club,False
+Patient 3-IFNa + TNFa-Club-True,Patient 3,IFNa + TNFa,Club,True
+Patient 3-IFNa + TNFa-Goblet-False,Patient 3,IFNa + TNFa,Goblet,False
+Patient 3-IFNa + TNFa-Goblet-True,Patient 3,IFNa + TNFa,Goblet,True
+Patient 3-IFNa + TNFa-Ionocytes-False,Patient 3,IFNa + TNFa,Ionocytes,False
+Patient 3-IFNa + TNFa-Ionocytes-True,Patient 3,IFNa + TNFa,Ionocytes,True
+Patient 3-IFNa + TNFa-Suprabasal-False,Patient 3,IFNa + TNFa,Suprabasal,False
+Patient 3-IFNa + TNFa-Suprabasal-True,Patient 3,IFNa + TNFa,Suprabasal,True
+Patient 3-IFNa + TNFa-Suprabasal prolif.-False,Patient 3,IFNa + TNFa,Suprabasal prolif.,False
+Patient 3-IFNa + TNFa-Suprabasal prolif.-True,Patient 3,IFNa + TNFa,Suprabasal prolif.,True
+Patient 3-IFNa + TNFa-Viral-False,Patient 3,IFNa + TNFa,Viral,False
+Patient 3-IFNa + TNFa-Viral-True,Patient 3,IFNa + TNFa,Viral,True
+Patient 3-IFNa + TNFa-unk-False,Patient 3,IFNa + TNFa,unk,False
+Patient 3-IFNa + TNFa-unk MT high cells-False,Patient 3,IFNa + TNFa,unk MT high cells,False
+Patient 3-IFNa + TNFa-unk TMSB+ cells-True,Patient 3,IFNa + TNFa,unk TMSB+ cells,True
+Patient 3-IFNg-Basal-False,Patient 3,IFNg,Basal,False
+Patient 3-IFNg-Basal-True,Patient 3,IFNg,Basal,True
+Patient 3-IFNg-Ciliated-False,Patient 3,IFNg,Ciliated,False
+Patient 3-IFNg-Ciliated-True,Patient 3,IFNg,Ciliated,True
+Patient 3-IFNg-Club-False,Patient 3,IFNg,Club,False
+Patient 3-IFNg-Club-True,Patient 3,IFNg,Club,True
+Patient 3-IFNg-Goblet-False,Patient 3,IFNg,Goblet,False
+Patient 3-IFNg-Goblet-True,Patient 3,IFNg,Goblet,True
+Patient 3-IFNg-Ionocytes-False,Patient 3,IFNg,Ionocytes,False
+Patient 3-IFNg-Ionocytes-True,Patient 3,IFNg,Ionocytes,True
+Patient 3-IFNg-Suprabasal-False,Patient 3,IFNg,Suprabasal,False
+Patient 3-IFNg-Suprabasal-True,Patient 3,IFNg,Suprabasal,True
+Patient 3-IFNg-Suprabasal prolif.-False,Patient 3,IFNg,Suprabasal prolif.,False
+Patient 3-IFNg-Suprabasal prolif.-True,Patient 3,IFNg,Suprabasal prolif.,True
+Patient 3-IFNg-Viral-False,Patient 3,IFNg,Viral,False
+Patient 3-IFNg-Viral-True,Patient 3,IFNg,Viral,True
+Patient 3-IFNg-unk-True,Patient 3,IFNg,unk,True
+Patient 3-IFNg-unk MT high cells-False,Patient 3,IFNg,unk MT high cells,False
+Patient 3-IFNg-unk MT high cells-True,Patient 3,IFNg,unk MT high cells,True
+Patient 3-IFNg-unk TMSB+ cells-False,Patient 3,IFNg,unk TMSB+ cells,False
+Patient 3-IFNg + TGFb2-Basal-False,Patient 3,IFNg + TGFb2,Basal,False
+Patient 3-IFNg + TGFb2-Basal-True,Patient 3,IFNg + TGFb2,Basal,True
+Patient 3-IFNg + TGFb2-Ciliated-False,Patient 3,IFNg + TGFb2,Ciliated,False
+Patient 3-IFNg + TGFb2-Ciliated-True,Patient 3,IFNg + TGFb2,Ciliated,True
+Patient 3-IFNg + TGFb2-Club-False,Patient 3,IFNg + TGFb2,Club,False
+Patient 3-IFNg + TGFb2-Club-True,Patient 3,IFNg + TGFb2,Club,True
+Patient 3-IFNg + TGFb2-Goblet-False,Patient 3,IFNg + TGFb2,Goblet,False
+Patient 3-IFNg + TGFb2-Goblet-True,Patient 3,IFNg + TGFb2,Goblet,True
+Patient 3-IFNg + TGFb2-Ionocytes-False,Patient 3,IFNg + TGFb2,Ionocytes,False
+Patient 3-IFNg + TGFb2-Ionocytes-True,Patient 3,IFNg + TGFb2,Ionocytes,True
+Patient 3-IFNg + TGFb2-Suprabasal-False,Patient 3,IFNg + TGFb2,Suprabasal,False
+Patient 3-IFNg + TGFb2-Suprabasal-True,Patient 3,IFNg + TGFb2,Suprabasal,True
+Patient 3-IFNg + TGFb2-Suprabasal prolif.-False,Patient 3,IFNg + TGFb2,Suprabasal prolif.,False
+Patient 3-IFNg + TGFb2-Suprabasal prolif.-True,Patient 3,IFNg + TGFb2,Suprabasal prolif.,True
+Patient 3-IFNg + TGFb2-Viral-True,Patient 3,IFNg + TGFb2,Viral,True
+Patient 3-IFNg + TGFb2-unk-False,Patient 3,IFNg + TGFb2,unk,False
+Patient 3-IFNg + TGFb2-unk MT high cells-False,Patient 3,IFNg + TGFb2,unk MT high cells,False
+Patient 3-IFNg + TGFb2-unk MT high cells-True,Patient 3,IFNg + TGFb2,unk MT high cells,True
+Patient 3-Sorafenib-Basal-False,Patient 3,Sorafenib,Basal,False
+Patient 3-Sorafenib-Basal-True,Patient 3,Sorafenib,Basal,True
+Patient 3-Sorafenib-Ciliated-False,Patient 3,Sorafenib,Ciliated,False
+Patient 3-Sorafenib-Ciliated-True,Patient 3,Sorafenib,Ciliated,True
+Patient 3-Sorafenib-Club-False,Patient 3,Sorafenib,Club,False
+Patient 3-Sorafenib-Club-True,Patient 3,Sorafenib,Club,True
+Patient 3-Sorafenib-Goblet-False,Patient 3,Sorafenib,Goblet,False
+Patient 3-Sorafenib-Goblet-True,Patient 3,Sorafenib,Goblet,True
+Patient 3-Sorafenib-Ionocytes-False,Patient 3,Sorafenib,Ionocytes,False
+Patient 3-Sorafenib-Ionocytes-True,Patient 3,Sorafenib,Ionocytes,True
+Patient 3-Sorafenib-Suprabasal-False,Patient 3,Sorafenib,Suprabasal,False
+Patient 3-Sorafenib-Suprabasal-True,Patient 3,Sorafenib,Suprabasal,True
+Patient 3-Sorafenib-Suprabasal prolif.-False,Patient 3,Sorafenib,Suprabasal prolif.,False
+Patient 3-Sorafenib-Suprabasal prolif.-True,Patient 3,Sorafenib,Suprabasal prolif.,True
+Patient 3-Sorafenib-Viral-False,Patient 3,Sorafenib,Viral,False
+Patient 3-Sorafenib-unk MT high cells-False,Patient 3,Sorafenib,unk MT high cells,False
+Patient 3-Sorafenib-unk MT high cells-True,Patient 3,Sorafenib,unk MT high cells,True
+Patient 3-Sorafenib-unk TMSB+ cells-False,Patient 3,Sorafenib,unk TMSB+ cells,False
+Patient 3-Sorafenib-unk TMSB+ cells-True,Patient 3,Sorafenib,unk TMSB+ cells,True
+Patient 3-TGFb2-Basal-False,Patient 3,TGFb2,Basal,False
+Patient 3-TGFb2-Basal-True,Patient 3,TGFb2,Basal,True
+Patient 3-TGFb2-Ciliated-False,Patient 3,TGFb2,Ciliated,False
+Patient 3-TGFb2-Ciliated-True,Patient 3,TGFb2,Ciliated,True
+Patient 3-TGFb2-Club-False,Patient 3,TGFb2,Club,False
+Patient 3-TGFb2-Club-True,Patient 3,TGFb2,Club,True
+Patient 3-TGFb2-Goblet-False,Patient 3,TGFb2,Goblet,False
+Patient 3-TGFb2-Goblet-True,Patient 3,TGFb2,Goblet,True
+Patient 3-TGFb2-Ionocytes-False,Patient 3,TGFb2,Ionocytes,False
+Patient 3-TGFb2-Ionocytes-True,Patient 3,TGFb2,Ionocytes,True
+Patient 3-TGFb2-Suprabasal-False,Patient 3,TGFb2,Suprabasal,False
+Patient 3-TGFb2-Suprabasal-True,Patient 3,TGFb2,Suprabasal,True
+Patient 3-TGFb2-Suprabasal prolif.-False,Patient 3,TGFb2,Suprabasal prolif.,False
+Patient 3-TGFb2-Suprabasal prolif.-True,Patient 3,TGFb2,Suprabasal prolif.,True
+Patient 3-TGFb2-Viral-False,Patient 3,TGFb2,Viral,False
+Patient 3-TGFb2-Viral-True,Patient 3,TGFb2,Viral,True
+Patient 3-TGFb2-unk-True,Patient 3,TGFb2,unk,True
+Patient 3-TGFb2-unk MT high cells-False,Patient 3,TGFb2,unk MT high cells,False
+Patient 3-TGFb2-unk MT high cells-True,Patient 3,TGFb2,unk MT high cells,True
+Patient 3-TGFb2-unk TMSB+ cells-True,Patient 3,TGFb2,unk TMSB+ cells,True
+Patient 3-TGFb2 + Tirapazamine-Basal-False,Patient 3,TGFb2 + Tirapazamine,Basal,False
+Patient 3-TGFb2 + Tirapazamine-Basal-True,Patient 3,TGFb2 + Tirapazamine,Basal,True
+Patient 3-TGFb2 + Tirapazamine-Ciliated-False,Patient 3,TGFb2 + Tirapazamine,Ciliated,False
+Patient 3-TGFb2 + Tirapazamine-Ciliated-True,Patient 3,TGFb2 + Tirapazamine,Ciliated,True
+Patient 3-TGFb2 + Tirapazamine-Club-False,Patient 3,TGFb2 + Tirapazamine,Club,False
+Patient 3-TGFb2 + Tirapazamine-Club-True,Patient 3,TGFb2 + Tirapazamine,Club,True
+Patient 3-TGFb2 + Tirapazamine-Goblet-False,Patient 3,TGFb2 + Tirapazamine,Goblet,False
+Patient 3-TGFb2 + Tirapazamine-Goblet-True,Patient 3,TGFb2 + Tirapazamine,Goblet,True
+Patient 3-TGFb2 + Tirapazamine-Ionocytes-False,Patient 3,TGFb2 + Tirapazamine,Ionocytes,False
+Patient 3-TGFb2 + Tirapazamine-Ionocytes-True,Patient 3,TGFb2 + Tirapazamine,Ionocytes,True
+Patient 3-TGFb2 + Tirapazamine-Suprabasal-False,Patient 3,TGFb2 + Tirapazamine,Suprabasal,False
+Patient 3-TGFb2 + Tirapazamine-Suprabasal-True,Patient 3,TGFb2 + Tirapazamine,Suprabasal,True
+Patient 3-TGFb2 + Tirapazamine-Suprabasal prolif.-False,Patient 3,TGFb2 + Tirapazamine,Suprabasal prolif.,False
+Patient 3-TGFb2 + Tirapazamine-Suprabasal prolif.-True,Patient 3,TGFb2 + Tirapazamine,Suprabasal prolif.,True
+Patient 3-TGFb2 + Tirapazamine-Viral-True,Patient 3,TGFb2 + Tirapazamine,Viral,True
+Patient 3-TGFb2 + Tirapazamine-unk-True,Patient 3,TGFb2 + Tirapazamine,unk,True
+Patient 3-TGFb2 + Tirapazamine-unk MT high cells-True,Patient 3,TGFb2 + Tirapazamine,unk MT high cells,True
+Patient 3-TGFb2 + Tirapazamine-unk TMSB+ cells-True,Patient 3,TGFb2 + Tirapazamine,unk TMSB+ cells,True
+Patient 3-TNFa-Basal-False,Patient 3,TNFa,Basal,False
+Patient 3-TNFa-Basal-True,Patient 3,TNFa,Basal,True
+Patient 3-TNFa-Ciliated-False,Patient 3,TNFa,Ciliated,False
+Patient 3-TNFa-Ciliated-True,Patient 3,TNFa,Ciliated,True
+Patient 3-TNFa-Club-False,Patient 3,TNFa,Club,False
+Patient 3-TNFa-Club-True,Patient 3,TNFa,Club,True
+Patient 3-TNFa-Goblet-False,Patient 3,TNFa,Goblet,False
+Patient 3-TNFa-Goblet-True,Patient 3,TNFa,Goblet,True
+Patient 3-TNFa-Ionocytes-False,Patient 3,TNFa,Ionocytes,False
+Patient 3-TNFa-Ionocytes-True,Patient 3,TNFa,Ionocytes,True
+Patient 3-TNFa-Suprabasal-False,Patient 3,TNFa,Suprabasal,False
+Patient 3-TNFa-Suprabasal-True,Patient 3,TNFa,Suprabasal,True
+Patient 3-TNFa-Suprabasal prolif.-False,Patient 3,TNFa,Suprabasal prolif.,False
+Patient 3-TNFa-Suprabasal prolif.-True,Patient 3,TNFa,Suprabasal prolif.,True
+Patient 3-TNFa-Viral-False,Patient 3,TNFa,Viral,False
+Patient 3-TNFa-Viral-True,Patient 3,TNFa,Viral,True
+Patient 3-TNFa-unk-False,Patient 3,TNFa,unk,False
+Patient 3-TNFa-unk-True,Patient 3,TNFa,unk,True
+Patient 3-TNFa-unk MT high cells-False,Patient 3,TNFa,unk MT high cells,False
+Patient 3-TNFa-unk MT high cells-True,Patient 3,TNFa,unk MT high cells,True
+Patient 3-TNFa-unk TMSB+ cells-False,Patient 3,TNFa,unk TMSB+ cells,False
+Patient 3-TNFa + IFNg-Basal-False,Patient 3,TNFa + IFNg,Basal,False
+Patient 3-TNFa + IFNg-Basal-True,Patient 3,TNFa + IFNg,Basal,True
+Patient 3-TNFa + IFNg-Ciliated-False,Patient 3,TNFa + IFNg,Ciliated,False
+Patient 3-TNFa + IFNg-Ciliated-True,Patient 3,TNFa + IFNg,Ciliated,True
+Patient 3-TNFa + IFNg-Club-False,Patient 3,TNFa + IFNg,Club,False
+Patient 3-TNFa + IFNg-Club-True,Patient 3,TNFa + IFNg,Club,True
+Patient 3-TNFa + IFNg-Goblet-False,Patient 3,TNFa + IFNg,Goblet,False
+Patient 3-TNFa + IFNg-Goblet-True,Patient 3,TNFa + IFNg,Goblet,True
+Patient 3-TNFa + IFNg-Ionocytes-False,Patient 3,TNFa + IFNg,Ionocytes,False
+Patient 3-TNFa + IFNg-Ionocytes-True,Patient 3,TNFa + IFNg,Ionocytes,True
+Patient 3-TNFa + IFNg-Suprabasal-False,Patient 3,TNFa + IFNg,Suprabasal,False
+Patient 3-TNFa + IFNg-Suprabasal-True,Patient 3,TNFa + IFNg,Suprabasal,True
+Patient 3-TNFa + IFNg-Suprabasal prolif.-False,Patient 3,TNFa + IFNg,Suprabasal prolif.,False
+Patient 3-TNFa + IFNg-Suprabasal prolif.-True,Patient 3,TNFa + IFNg,Suprabasal prolif.,True
+Patient 3-TNFa + IFNg-Viral-False,Patient 3,TNFa + IFNg,Viral,False
+Patient 3-TNFa + IFNg-Viral-True,Patient 3,TNFa + IFNg,Viral,True
+Patient 3-TNFa + IFNg-unk MT high cells-True,Patient 3,TNFa + IFNg,unk MT high cells,True
+Patient 3-TNFa + IFNg-unk TMSB+ cells-True,Patient 3,TNFa + IFNg,unk TMSB+ cells,True
+Patient 3-TNFa + TGFb2-Basal-False,Patient 3,TNFa + TGFb2,Basal,False
+Patient 3-TNFa + TGFb2-Basal-True,Patient 3,TNFa + TGFb2,Basal,True
+Patient 3-TNFa + TGFb2-Ciliated-False,Patient 3,TNFa + TGFb2,Ciliated,False
+Patient 3-TNFa + TGFb2-Ciliated-True,Patient 3,TNFa + TGFb2,Ciliated,True
+Patient 3-TNFa + TGFb2-Club-False,Patient 3,TNFa + TGFb2,Club,False
+Patient 3-TNFa + TGFb2-Club-True,Patient 3,TNFa + TGFb2,Club,True
+Patient 3-TNFa + TGFb2-Goblet-True,Patient 3,TNFa + TGFb2,Goblet,True
+Patient 3-TNFa + TGFb2-Ionocytes-False,Patient 3,TNFa + TGFb2,Ionocytes,False
+Patient 3-TNFa + TGFb2-Ionocytes-True,Patient 3,TNFa + TGFb2,Ionocytes,True
+Patient 3-TNFa + TGFb2-Suprabasal-False,Patient 3,TNFa + TGFb2,Suprabasal,False
+Patient 3-TNFa + TGFb2-Suprabasal-True,Patient 3,TNFa + TGFb2,Suprabasal,True
+Patient 3-TNFa + TGFb2-Suprabasal prolif.-False,Patient 3,TNFa + TGFb2,Suprabasal prolif.,False
+Patient 3-TNFa + TGFb2-Suprabasal prolif.-True,Patient 3,TNFa + TGFb2,Suprabasal prolif.,True
+Patient 3-TNFa + TGFb2-Viral-True,Patient 3,TNFa + TGFb2,Viral,True
+Patient 3-TNFa + TGFb2-unk-True,Patient 3,TNFa + TGFb2,unk,True
+Patient 3-TNFa + TGFb2-unk MT high cells-False,Patient 3,TNFa + TGFb2,unk MT high cells,False
+Patient 3-TNFa + TGFb2-unk MT high cells-True,Patient 3,TNFa + TGFb2,unk MT high cells,True
+Patient 3-TNFa + Tirapazamine-Basal-False,Patient 3,TNFa + Tirapazamine,Basal,False
+Patient 3-TNFa + Tirapazamine-Basal-True,Patient 3,TNFa + Tirapazamine,Basal,True
+Patient 3-TNFa + Tirapazamine-Ciliated-False,Patient 3,TNFa + Tirapazamine,Ciliated,False
+Patient 3-TNFa + Tirapazamine-Ciliated-True,Patient 3,TNFa + Tirapazamine,Ciliated,True
+Patient 3-TNFa + Tirapazamine-Club-False,Patient 3,TNFa + Tirapazamine,Club,False
+Patient 3-TNFa + Tirapazamine-Club-True,Patient 3,TNFa + Tirapazamine,Club,True
+Patient 3-TNFa + Tirapazamine-Goblet-False,Patient 3,TNFa + Tirapazamine,Goblet,False
+Patient 3-TNFa + Tirapazamine-Goblet-True,Patient 3,TNFa + Tirapazamine,Goblet,True
+Patient 3-TNFa + Tirapazamine-Ionocytes-False,Patient 3,TNFa + Tirapazamine,Ionocytes,False
+Patient 3-TNFa + Tirapazamine-Ionocytes-True,Patient 3,TNFa + Tirapazamine,Ionocytes,True
+Patient 3-TNFa + Tirapazamine-Suprabasal-False,Patient 3,TNFa + Tirapazamine,Suprabasal,False
+Patient 3-TNFa + Tirapazamine-Suprabasal-True,Patient 3,TNFa + Tirapazamine,Suprabasal,True
+Patient 3-TNFa + Tirapazamine-Suprabasal prolif.-False,Patient 3,TNFa + Tirapazamine,Suprabasal prolif.,False
+Patient 3-TNFa + Tirapazamine-Suprabasal prolif.-True,Patient 3,TNFa + Tirapazamine,Suprabasal prolif.,True
+Patient 3-TNFa + Tirapazamine-Viral-True,Patient 3,TNFa + Tirapazamine,Viral,True
+Patient 3-TNFa + Tirapazamine-unk-True,Patient 3,TNFa + Tirapazamine,unk,True
+Patient 3-TNFa + Tirapazamine-unk MT high cells-False,Patient 3,TNFa + Tirapazamine,unk MT high cells,False
+Patient 3-TNFa + Tirapazamine-unk MT high cells-True,Patient 3,TNFa + Tirapazamine,unk MT high cells,True
+Patient 3-Tirapazamine-Basal-False,Patient 3,Tirapazamine,Basal,False
+Patient 3-Tirapazamine-Basal-True,Patient 3,Tirapazamine,Basal,True
+Patient 3-Tirapazamine-Ciliated-False,Patient 3,Tirapazamine,Ciliated,False
+Patient 3-Tirapazamine-Ciliated-True,Patient 3,Tirapazamine,Ciliated,True
+Patient 3-Tirapazamine-Club-False,Patient 3,Tirapazamine,Club,False
+Patient 3-Tirapazamine-Club-True,Patient 3,Tirapazamine,Club,True
+Patient 3-Tirapazamine-Goblet-False,Patient 3,Tirapazamine,Goblet,False
+Patient 3-Tirapazamine-Goblet-True,Patient 3,Tirapazamine,Goblet,True
+Patient 3-Tirapazamine-Ionocytes-False,Patient 3,Tirapazamine,Ionocytes,False
+Patient 3-Tirapazamine-Ionocytes-True,Patient 3,Tirapazamine,Ionocytes,True
+Patient 3-Tirapazamine-Suprabasal-False,Patient 3,Tirapazamine,Suprabasal,False
+Patient 3-Tirapazamine-Suprabasal-True,Patient 3,Tirapazamine,Suprabasal,True
+Patient 3-Tirapazamine-Suprabasal prolif.-False,Patient 3,Tirapazamine,Suprabasal prolif.,False
+Patient 3-Tirapazamine-Suprabasal prolif.-True,Patient 3,Tirapazamine,Suprabasal prolif.,True
+Patient 3-Tirapazamine-Viral-False,Patient 3,Tirapazamine,Viral,False
+Patient 3-Tirapazamine-Viral-True,Patient 3,Tirapazamine,Viral,True
+Patient 3-Tirapazamine-unk-True,Patient 3,Tirapazamine,unk,True
+Patient 3-Tirapazamine-unk MT high cells-False,Patient 3,Tirapazamine,unk MT high cells,False
+Patient 3-Tirapazamine-unk MT high cells-True,Patient 3,Tirapazamine,unk MT high cells,True
+Patient 3-mock-Basal-False,Patient 3,mock,Basal,False
+Patient 3-mock-Basal-True,Patient 3,mock,Basal,True
+Patient 3-mock-Ciliated-False,Patient 3,mock,Ciliated,False
+Patient 3-mock-Ciliated-True,Patient 3,mock,Ciliated,True
+Patient 3-mock-Club-False,Patient 3,mock,Club,False
+Patient 3-mock-Club-True,Patient 3,mock,Club,True
+Patient 3-mock-Goblet-False,Patient 3,mock,Goblet,False
+Patient 3-mock-Goblet-True,Patient 3,mock,Goblet,True
+Patient 3-mock-Ionocytes-False,Patient 3,mock,Ionocytes,False
+Patient 3-mock-Ionocytes-True,Patient 3,mock,Ionocytes,True
+Patient 3-mock-Suprabasal-False,Patient 3,mock,Suprabasal,False
+Patient 3-mock-Suprabasal-True,Patient 3,mock,Suprabasal,True
+Patient 3-mock-Suprabasal prolif.-False,Patient 3,mock,Suprabasal prolif.,False
+Patient 3-mock-Suprabasal prolif.-True,Patient 3,mock,Suprabasal prolif.,True
+Patient 3-mock-Viral-False,Patient 3,mock,Viral,False
+Patient 3-mock-Viral-True,Patient 3,mock,Viral,True
+Patient 3-mock-unk-False,Patient 3,mock,unk,False
+Patient 3-mock-unk-True,Patient 3,mock,unk,True
+Patient 3-mock-unk MT high cells-False,Patient 3,mock,unk MT high cells,False
+Patient 3-mock-unk MT high cells-True,Patient 3,mock,unk MT high cells,True
+Patient 3-mock-unk TMSB+ cells-False,Patient 3,mock,unk TMSB+ cells,False
+Patient 3-mock-unk TMSB+ cells-True,Patient 3,mock,unk TMSB+ cells,True
+Patient 4-BB94-Basal-False,Patient 4,BB94,Basal,False
+Patient 4-BB94-Basal-True,Patient 4,BB94,Basal,True
+Patient 4-BB94-Ciliated-False,Patient 4,BB94,Ciliated,False
+Patient 4-BB94-Ciliated-True,Patient 4,BB94,Ciliated,True
+Patient 4-BB94-Club-False,Patient 4,BB94,Club,False
+Patient 4-BB94-Club-True,Patient 4,BB94,Club,True
+Patient 4-BB94-Goblet-False,Patient 4,BB94,Goblet,False
+Patient 4-BB94-Goblet-True,Patient 4,BB94,Goblet,True
+Patient 4-BB94-Ionocytes-False,Patient 4,BB94,Ionocytes,False
+Patient 4-BB94-Ionocytes-True,Patient 4,BB94,Ionocytes,True
+Patient 4-BB94-Suprabasal-False,Patient 4,BB94,Suprabasal,False
+Patient 4-BB94-Suprabasal-True,Patient 4,BB94,Suprabasal,True
+Patient 4-BB94-Suprabasal prolif.-False,Patient 4,BB94,Suprabasal prolif.,False
+Patient 4-BB94-Suprabasal prolif.-True,Patient 4,BB94,Suprabasal prolif.,True
+Patient 4-BB94-Viral-False,Patient 4,BB94,Viral,False
+Patient 4-BB94-Viral-True,Patient 4,BB94,Viral,True
+Patient 4-BB94-unk-True,Patient 4,BB94,unk,True
+Patient 4-BB94-unk MT high cells-False,Patient 4,BB94,unk MT high cells,False
+Patient 4-BB94-unk MT high cells-True,Patient 4,BB94,unk MT high cells,True
+Patient 4-BB94-unk TMSB+ cells-False,Patient 4,BB94,unk TMSB+ cells,False
+Patient 4-BB94-unk TMSB+ cells-True,Patient 4,BB94,unk TMSB+ cells,True
+Patient 4-DMSO-Basal-True,Patient 4,DMSO,Basal,True
+Patient 4-DMSO-Ciliated-True,Patient 4,DMSO,Ciliated,True
+Patient 4-DMSO-Club-True,Patient 4,DMSO,Club,True
+Patient 4-DMSO-Goblet-True,Patient 4,DMSO,Goblet,True
+Patient 4-DMSO-Ionocytes-True,Patient 4,DMSO,Ionocytes,True
+Patient 4-DMSO-Suprabasal-True,Patient 4,DMSO,Suprabasal,True
+Patient 4-DMSO-Suprabasal prolif.-True,Patient 4,DMSO,Suprabasal prolif.,True
+Patient 4-DMSO-Viral-True,Patient 4,DMSO,Viral,True
+Patient 4-DMSO-unk-True,Patient 4,DMSO,unk,True
+Patient 4-DMSO-unk MT high cells-True,Patient 4,DMSO,unk MT high cells,True
+Patient 4-Gilteritinib-Basal-False,Patient 4,Gilteritinib,Basal,False
+Patient 4-Gilteritinib-Basal-True,Patient 4,Gilteritinib,Basal,True
+Patient 4-Gilteritinib-Ciliated-False,Patient 4,Gilteritinib,Ciliated,False
+Patient 4-Gilteritinib-Ciliated-True,Patient 4,Gilteritinib,Ciliated,True
+Patient 4-Gilteritinib-Club-False,Patient 4,Gilteritinib,Club,False
+Patient 4-Gilteritinib-Club-True,Patient 4,Gilteritinib,Club,True
+Patient 4-Gilteritinib-Goblet-False,Patient 4,Gilteritinib,Goblet,False
+Patient 4-Gilteritinib-Goblet-True,Patient 4,Gilteritinib,Goblet,True
+Patient 4-Gilteritinib-Ionocytes-False,Patient 4,Gilteritinib,Ionocytes,False
+Patient 4-Gilteritinib-Ionocytes-True,Patient 4,Gilteritinib,Ionocytes,True
+Patient 4-Gilteritinib-Suprabasal-False,Patient 4,Gilteritinib,Suprabasal,False
+Patient 4-Gilteritinib-Suprabasal-True,Patient 4,Gilteritinib,Suprabasal,True
+Patient 4-Gilteritinib-Suprabasal prolif.-False,Patient 4,Gilteritinib,Suprabasal prolif.,False
+Patient 4-Gilteritinib-Suprabasal prolif.-True,Patient 4,Gilteritinib,Suprabasal prolif.,True
+Patient 4-Gilteritinib-Viral-False,Patient 4,Gilteritinib,Viral,False
+Patient 4-Gilteritinib-Viral-True,Patient 4,Gilteritinib,Viral,True
+Patient 4-Gilteritinib-unk-True,Patient 4,Gilteritinib,unk,True
+Patient 4-Gilteritinib-unk MT high cells-False,Patient 4,Gilteritinib,unk MT high cells,False
+Patient 4-Gilteritinib-unk MT high cells-True,Patient 4,Gilteritinib,unk MT high cells,True
+Patient 4-Gilteritinib-unk TMSB+ cells-False,Patient 4,Gilteritinib,unk TMSB+ cells,False
+Patient 4-Gilteritinib-unk TMSB+ cells-True,Patient 4,Gilteritinib,unk TMSB+ cells,True
+Patient 4-IFNL-Basal-False,Patient 4,IFNL,Basal,False
+Patient 4-IFNL-Basal-True,Patient 4,IFNL,Basal,True
+Patient 4-IFNL-Ciliated-False,Patient 4,IFNL,Ciliated,False
+Patient 4-IFNL-Ciliated-True,Patient 4,IFNL,Ciliated,True
+Patient 4-IFNL-Club-False,Patient 4,IFNL,Club,False
+Patient 4-IFNL-Club-True,Patient 4,IFNL,Club,True
+Patient 4-IFNL-Goblet-False,Patient 4,IFNL,Goblet,False
+Patient 4-IFNL-Goblet-True,Patient 4,IFNL,Goblet,True
+Patient 4-IFNL-Ionocytes-False,Patient 4,IFNL,Ionocytes,False
+Patient 4-IFNL-Ionocytes-True,Patient 4,IFNL,Ionocytes,True
+Patient 4-IFNL-Suprabasal-False,Patient 4,IFNL,Suprabasal,False
+Patient 4-IFNL-Suprabasal-True,Patient 4,IFNL,Suprabasal,True
+Patient 4-IFNL-Suprabasal prolif.-False,Patient 4,IFNL,Suprabasal prolif.,False
+Patient 4-IFNL-Suprabasal prolif.-True,Patient 4,IFNL,Suprabasal prolif.,True
+Patient 4-IFNL-Viral-False,Patient 4,IFNL,Viral,False
+Patient 4-IFNL-Viral-True,Patient 4,IFNL,Viral,True
+Patient 4-IFNL-unk MT high cells-False,Patient 4,IFNL,unk MT high cells,False
+Patient 4-IFNL-unk MT high cells-True,Patient 4,IFNL,unk MT high cells,True
+Patient 4-IFNL-unk TMSB+ cells-True,Patient 4,IFNL,unk TMSB+ cells,True
+Patient 4-IFNa-Basal-False,Patient 4,IFNa,Basal,False
+Patient 4-IFNa-Basal-True,Patient 4,IFNa,Basal,True
+Patient 4-IFNa-Ciliated-False,Patient 4,IFNa,Ciliated,False
+Patient 4-IFNa-Ciliated-True,Patient 4,IFNa,Ciliated,True
+Patient 4-IFNa-Club-False,Patient 4,IFNa,Club,False
+Patient 4-IFNa-Club-True,Patient 4,IFNa,Club,True
+Patient 4-IFNa-Goblet-False,Patient 4,IFNa,Goblet,False
+Patient 4-IFNa-Goblet-True,Patient 4,IFNa,Goblet,True
+Patient 4-IFNa-Ionocytes-False,Patient 4,IFNa,Ionocytes,False
+Patient 4-IFNa-Ionocytes-True,Patient 4,IFNa,Ionocytes,True
+Patient 4-IFNa-Suprabasal-False,Patient 4,IFNa,Suprabasal,False
+Patient 4-IFNa-Suprabasal-True,Patient 4,IFNa,Suprabasal,True
+Patient 4-IFNa-Suprabasal prolif.-False,Patient 4,IFNa,Suprabasal prolif.,False
+Patient 4-IFNa-Suprabasal prolif.-True,Patient 4,IFNa,Suprabasal prolif.,True
+Patient 4-IFNa-Viral-False,Patient 4,IFNa,Viral,False
+Patient 4-IFNa-Viral-True,Patient 4,IFNa,Viral,True
+Patient 4-IFNa-unk-False,Patient 4,IFNa,unk,False
+Patient 4-IFNa-unk-True,Patient 4,IFNa,unk,True
+Patient 4-IFNa-unk MT high cells-False,Patient 4,IFNa,unk MT high cells,False
+Patient 4-IFNa-unk MT high cells-True,Patient 4,IFNa,unk MT high cells,True
+Patient 4-IFNa + TNFa-Basal-False,Patient 4,IFNa + TNFa,Basal,False
+Patient 4-IFNa + TNFa-Basal-True,Patient 4,IFNa + TNFa,Basal,True
+Patient 4-IFNa + TNFa-Ciliated-False,Patient 4,IFNa + TNFa,Ciliated,False
+Patient 4-IFNa + TNFa-Ciliated-True,Patient 4,IFNa + TNFa,Ciliated,True
+Patient 4-IFNa + TNFa-Club-False,Patient 4,IFNa + TNFa,Club,False
+Patient 4-IFNa + TNFa-Club-True,Patient 4,IFNa + TNFa,Club,True
+Patient 4-IFNa + TNFa-Goblet-False,Patient 4,IFNa + TNFa,Goblet,False
+Patient 4-IFNa + TNFa-Goblet-True,Patient 4,IFNa + TNFa,Goblet,True
+Patient 4-IFNa + TNFa-Ionocytes-False,Patient 4,IFNa + TNFa,Ionocytes,False
+Patient 4-IFNa + TNFa-Ionocytes-True,Patient 4,IFNa + TNFa,Ionocytes,True
+Patient 4-IFNa + TNFa-Suprabasal-False,Patient 4,IFNa + TNFa,Suprabasal,False
+Patient 4-IFNa + TNFa-Suprabasal-True,Patient 4,IFNa + TNFa,Suprabasal,True
+Patient 4-IFNa + TNFa-Suprabasal prolif.-False,Patient 4,IFNa + TNFa,Suprabasal prolif.,False
+Patient 4-IFNa + TNFa-Suprabasal prolif.-True,Patient 4,IFNa + TNFa,Suprabasal prolif.,True
+Patient 4-IFNa + TNFa-Viral-False,Patient 4,IFNa + TNFa,Viral,False
+Patient 4-IFNa + TNFa-Viral-True,Patient 4,IFNa + TNFa,Viral,True
+Patient 4-IFNa + TNFa-unk-False,Patient 4,IFNa + TNFa,unk,False
+Patient 4-IFNa + TNFa-unk MT high cells-False,Patient 4,IFNa + TNFa,unk MT high cells,False
+Patient 4-IFNa + TNFa-unk MT high cells-True,Patient 4,IFNa + TNFa,unk MT high cells,True
+Patient 4-IFNg-Basal-False,Patient 4,IFNg,Basal,False
+Patient 4-IFNg-Basal-True,Patient 4,IFNg,Basal,True
+Patient 4-IFNg-Ciliated-False,Patient 4,IFNg,Ciliated,False
+Patient 4-IFNg-Ciliated-True,Patient 4,IFNg,Ciliated,True
+Patient 4-IFNg-Club-False,Patient 4,IFNg,Club,False
+Patient 4-IFNg-Club-True,Patient 4,IFNg,Club,True
+Patient 4-IFNg-Goblet-False,Patient 4,IFNg,Goblet,False
+Patient 4-IFNg-Goblet-True,Patient 4,IFNg,Goblet,True
+Patient 4-IFNg-Ionocytes-False,Patient 4,IFNg,Ionocytes,False
+Patient 4-IFNg-Ionocytes-True,Patient 4,IFNg,Ionocytes,True
+Patient 4-IFNg-Suprabasal-False,Patient 4,IFNg,Suprabasal,False
+Patient 4-IFNg-Suprabasal-True,Patient 4,IFNg,Suprabasal,True
+Patient 4-IFNg-Suprabasal prolif.-False,Patient 4,IFNg,Suprabasal prolif.,False
+Patient 4-IFNg-Suprabasal prolif.-True,Patient 4,IFNg,Suprabasal prolif.,True
+Patient 4-IFNg-Viral-False,Patient 4,IFNg,Viral,False
+Patient 4-IFNg-Viral-True,Patient 4,IFNg,Viral,True
+Patient 4-IFNg-unk-True,Patient 4,IFNg,unk,True
+Patient 4-IFNg-unk MT high cells-False,Patient 4,IFNg,unk MT high cells,False
+Patient 4-IFNg-unk MT high cells-True,Patient 4,IFNg,unk MT high cells,True
+Patient 4-IFNg-unk TMSB+ cells-False,Patient 4,IFNg,unk TMSB+ cells,False
+Patient 4-IFNg + TGFb2-Basal-False,Patient 4,IFNg + TGFb2,Basal,False
+Patient 4-IFNg + TGFb2-Basal-True,Patient 4,IFNg + TGFb2,Basal,True
+Patient 4-IFNg + TGFb2-Ciliated-False,Patient 4,IFNg + TGFb2,Ciliated,False
+Patient 4-IFNg + TGFb2-Ciliated-True,Patient 4,IFNg + TGFb2,Ciliated,True
+Patient 4-IFNg + TGFb2-Club-False,Patient 4,IFNg + TGFb2,Club,False
+Patient 4-IFNg + TGFb2-Club-True,Patient 4,IFNg + TGFb2,Club,True
+Patient 4-IFNg + TGFb2-Goblet-False,Patient 4,IFNg + TGFb2,Goblet,False
+Patient 4-IFNg + TGFb2-Goblet-True,Patient 4,IFNg + TGFb2,Goblet,True
+Patient 4-IFNg + TGFb2-Ionocytes-False,Patient 4,IFNg + TGFb2,Ionocytes,False
+Patient 4-IFNg + TGFb2-Suprabasal-False,Patient 4,IFNg + TGFb2,Suprabasal,False
+Patient 4-IFNg + TGFb2-Suprabasal-True,Patient 4,IFNg + TGFb2,Suprabasal,True
+Patient 4-IFNg + TGFb2-Suprabasal prolif.-False,Patient 4,IFNg + TGFb2,Suprabasal prolif.,False
+Patient 4-IFNg + TGFb2-Suprabasal prolif.-True,Patient 4,IFNg + TGFb2,Suprabasal prolif.,True
+Patient 4-IFNg + TGFb2-Viral-False,Patient 4,IFNg + TGFb2,Viral,False
+Patient 4-IFNg + TGFb2-Viral-True,Patient 4,IFNg + TGFb2,Viral,True
+Patient 4-IFNg + TGFb2-unk-True,Patient 4,IFNg + TGFb2,unk,True
+Patient 4-IFNg + TGFb2-unk MT high cells-False,Patient 4,IFNg + TGFb2,unk MT high cells,False
+Patient 4-IFNg + TGFb2-unk MT high cells-True,Patient 4,IFNg + TGFb2,unk MT high cells,True
+Patient 4-Sorafenib-Basal-False,Patient 4,Sorafenib,Basal,False
+Patient 4-Sorafenib-Basal-True,Patient 4,Sorafenib,Basal,True
+Patient 4-Sorafenib-Ciliated-False,Patient 4,Sorafenib,Ciliated,False
+Patient 4-Sorafenib-Ciliated-True,Patient 4,Sorafenib,Ciliated,True
+Patient 4-Sorafenib-Club-False,Patient 4,Sorafenib,Club,False
+Patient 4-Sorafenib-Club-True,Patient 4,Sorafenib,Club,True
+Patient 4-Sorafenib-Goblet-False,Patient 4,Sorafenib,Goblet,False
+Patient 4-Sorafenib-Goblet-True,Patient 4,Sorafenib,Goblet,True
+Patient 4-Sorafenib-Ionocytes-False,Patient 4,Sorafenib,Ionocytes,False
+Patient 4-Sorafenib-Ionocytes-True,Patient 4,Sorafenib,Ionocytes,True
+Patient 4-Sorafenib-Suprabasal-False,Patient 4,Sorafenib,Suprabasal,False
+Patient 4-Sorafenib-Suprabasal-True,Patient 4,Sorafenib,Suprabasal,True
+Patient 4-Sorafenib-Suprabasal prolif.-False,Patient 4,Sorafenib,Suprabasal prolif.,False
+Patient 4-Sorafenib-Suprabasal prolif.-True,Patient 4,Sorafenib,Suprabasal prolif.,True
+Patient 4-Sorafenib-Viral-False,Patient 4,Sorafenib,Viral,False
+Patient 4-Sorafenib-Viral-True,Patient 4,Sorafenib,Viral,True
+Patient 4-Sorafenib-unk MT high cells-False,Patient 4,Sorafenib,unk MT high cells,False
+Patient 4-Sorafenib-unk MT high cells-True,Patient 4,Sorafenib,unk MT high cells,True
+Patient 4-Sorafenib-unk TMSB+ cells-True,Patient 4,Sorafenib,unk TMSB+ cells,True
+Patient 4-TGFb2-Basal-False,Patient 4,TGFb2,Basal,False
+Patient 4-TGFb2-Basal-True,Patient 4,TGFb2,Basal,True
+Patient 4-TGFb2-Ciliated-False,Patient 4,TGFb2,Ciliated,False
+Patient 4-TGFb2-Ciliated-True,Patient 4,TGFb2,Ciliated,True
+Patient 4-TGFb2-Club-False,Patient 4,TGFb2,Club,False
+Patient 4-TGFb2-Club-True,Patient 4,TGFb2,Club,True
+Patient 4-TGFb2-Goblet-False,Patient 4,TGFb2,Goblet,False
+Patient 4-TGFb2-Ionocytes-False,Patient 4,TGFb2,Ionocytes,False
+Patient 4-TGFb2-Ionocytes-True,Patient 4,TGFb2,Ionocytes,True
+Patient 4-TGFb2-Suprabasal-False,Patient 4,TGFb2,Suprabasal,False
+Patient 4-TGFb2-Suprabasal-True,Patient 4,TGFb2,Suprabasal,True
+Patient 4-TGFb2-Suprabasal prolif.-False,Patient 4,TGFb2,Suprabasal prolif.,False
+Patient 4-TGFb2-Suprabasal prolif.-True,Patient 4,TGFb2,Suprabasal prolif.,True
+Patient 4-TGFb2-Viral-False,Patient 4,TGFb2,Viral,False
+Patient 4-TGFb2-Viral-True,Patient 4,TGFb2,Viral,True
+Patient 4-TGFb2-unk-True,Patient 4,TGFb2,unk,True
+Patient 4-TGFb2-unk MT high cells-False,Patient 4,TGFb2,unk MT high cells,False
+Patient 4-TGFb2-unk MT high cells-True,Patient 4,TGFb2,unk MT high cells,True
+Patient 4-TGFb2-unk TMSB+ cells-False,Patient 4,TGFb2,unk TMSB+ cells,False
+Patient 4-TGFb2 + Tirapazamine-Basal-False,Patient 4,TGFb2 + Tirapazamine,Basal,False
+Patient 4-TGFb2 + Tirapazamine-Basal-True,Patient 4,TGFb2 + Tirapazamine,Basal,True
+Patient 4-TGFb2 + Tirapazamine-Ciliated-False,Patient 4,TGFb2 + Tirapazamine,Ciliated,False
+Patient 4-TGFb2 + Tirapazamine-Ciliated-True,Patient 4,TGFb2 + Tirapazamine,Ciliated,True
+Patient 4-TGFb2 + Tirapazamine-Club-False,Patient 4,TGFb2 + Tirapazamine,Club,False
+Patient 4-TGFb2 + Tirapazamine-Club-True,Patient 4,TGFb2 + Tirapazamine,Club,True
+Patient 4-TGFb2 + Tirapazamine-Goblet-False,Patient 4,TGFb2 + Tirapazamine,Goblet,False
+Patient 4-TGFb2 + Tirapazamine-Goblet-True,Patient 4,TGFb2 + Tirapazamine,Goblet,True
+Patient 4-TGFb2 + Tirapazamine-Ionocytes-False,Patient 4,TGFb2 + Tirapazamine,Ionocytes,False
+Patient 4-TGFb2 + Tirapazamine-Suprabasal-False,Patient 4,TGFb2 + Tirapazamine,Suprabasal,False
+Patient 4-TGFb2 + Tirapazamine-Suprabasal-True,Patient 4,TGFb2 + Tirapazamine,Suprabasal,True
+Patient 4-TGFb2 + Tirapazamine-Suprabasal prolif.-False,Patient 4,TGFb2 + Tirapazamine,Suprabasal prolif.,False
+Patient 4-TGFb2 + Tirapazamine-Suprabasal prolif.-True,Patient 4,TGFb2 + Tirapazamine,Suprabasal prolif.,True
+Patient 4-TGFb2 + Tirapazamine-Viral-False,Patient 4,TGFb2 + Tirapazamine,Viral,False
+Patient 4-TGFb2 + Tirapazamine-Viral-True,Patient 4,TGFb2 + Tirapazamine,Viral,True
+Patient 4-TGFb2 + Tirapazamine-unk MT high cells-False,Patient 4,TGFb2 + Tirapazamine,unk MT high cells,False
+Patient 4-TGFb2 + Tirapazamine-unk MT high cells-True,Patient 4,TGFb2 + Tirapazamine,unk MT high cells,True
+Patient 4-TNFa-Basal-False,Patient 4,TNFa,Basal,False
+Patient 4-TNFa-Basal-True,Patient 4,TNFa,Basal,True
+Patient 4-TNFa-Ciliated-False,Patient 4,TNFa,Ciliated,False
+Patient 4-TNFa-Ciliated-True,Patient 4,TNFa,Ciliated,True
+Patient 4-TNFa-Club-False,Patient 4,TNFa,Club,False
+Patient 4-TNFa-Club-True,Patient 4,TNFa,Club,True
+Patient 4-TNFa-Goblet-False,Patient 4,TNFa,Goblet,False
+Patient 4-TNFa-Goblet-True,Patient 4,TNFa,Goblet,True
+Patient 4-TNFa-Ionocytes-False,Patient 4,TNFa,Ionocytes,False
+Patient 4-TNFa-Ionocytes-True,Patient 4,TNFa,Ionocytes,True
+Patient 4-TNFa-Suprabasal-False,Patient 4,TNFa,Suprabasal,False
+Patient 4-TNFa-Suprabasal-True,Patient 4,TNFa,Suprabasal,True
+Patient 4-TNFa-Suprabasal prolif.-False,Patient 4,TNFa,Suprabasal prolif.,False
+Patient 4-TNFa-Suprabasal prolif.-True,Patient 4,TNFa,Suprabasal prolif.,True
+Patient 4-TNFa-Viral-False,Patient 4,TNFa,Viral,False
+Patient 4-TNFa-Viral-True,Patient 4,TNFa,Viral,True
+Patient 4-TNFa-unk-False,Patient 4,TNFa,unk,False
+Patient 4-TNFa-unk MT high cells-False,Patient 4,TNFa,unk MT high cells,False
+Patient 4-TNFa-unk MT high cells-True,Patient 4,TNFa,unk MT high cells,True
+Patient 4-TNFa-unk TMSB+ cells-False,Patient 4,TNFa,unk TMSB+ cells,False
+Patient 4-TNFa + IFNg-Basal-False,Patient 4,TNFa + IFNg,Basal,False
+Patient 4-TNFa + IFNg-Basal-True,Patient 4,TNFa + IFNg,Basal,True
+Patient 4-TNFa + IFNg-Ciliated-False,Patient 4,TNFa + IFNg,Ciliated,False
+Patient 4-TNFa + IFNg-Ciliated-True,Patient 4,TNFa + IFNg,Ciliated,True
+Patient 4-TNFa + IFNg-Club-False,Patient 4,TNFa + IFNg,Club,False
+Patient 4-TNFa + IFNg-Club-True,Patient 4,TNFa + IFNg,Club,True
+Patient 4-TNFa + IFNg-Goblet-False,Patient 4,TNFa + IFNg,Goblet,False
+Patient 4-TNFa + IFNg-Goblet-True,Patient 4,TNFa + IFNg,Goblet,True
+Patient 4-TNFa + IFNg-Ionocytes-False,Patient 4,TNFa + IFNg,Ionocytes,False
+Patient 4-TNFa + IFNg-Ionocytes-True,Patient 4,TNFa + IFNg,Ionocytes,True
+Patient 4-TNFa + IFNg-Suprabasal-False,Patient 4,TNFa + IFNg,Suprabasal,False
+Patient 4-TNFa + IFNg-Suprabasal-True,Patient 4,TNFa + IFNg,Suprabasal,True
+Patient 4-TNFa + IFNg-Suprabasal prolif.-False,Patient 4,TNFa + IFNg,Suprabasal prolif.,False
+Patient 4-TNFa + IFNg-Suprabasal prolif.-True,Patient 4,TNFa + IFNg,Suprabasal prolif.,True
+Patient 4-TNFa + IFNg-Viral-False,Patient 4,TNFa + IFNg,Viral,False
+Patient 4-TNFa + IFNg-Viral-True,Patient 4,TNFa + IFNg,Viral,True
+Patient 4-TNFa + IFNg-unk MT high cells-False,Patient 4,TNFa + IFNg,unk MT high cells,False
+Patient 4-TNFa + IFNg-unk MT high cells-True,Patient 4,TNFa + IFNg,unk MT high cells,True
+Patient 4-TNFa + IFNg-unk TMSB+ cells-True,Patient 4,TNFa + IFNg,unk TMSB+ cells,True
+Patient 4-TNFa + TGFb2-Basal-False,Patient 4,TNFa + TGFb2,Basal,False
+Patient 4-TNFa + TGFb2-Basal-True,Patient 4,TNFa + TGFb2,Basal,True
+Patient 4-TNFa + TGFb2-Ciliated-False,Patient 4,TNFa + TGFb2,Ciliated,False
+Patient 4-TNFa + TGFb2-Ciliated-True,Patient 4,TNFa + TGFb2,Ciliated,True
+Patient 4-TNFa + TGFb2-Club-False,Patient 4,TNFa + TGFb2,Club,False
+Patient 4-TNFa + TGFb2-Club-True,Patient 4,TNFa + TGFb2,Club,True
+Patient 4-TNFa + TGFb2-Goblet-False,Patient 4,TNFa + TGFb2,Goblet,False
+Patient 4-TNFa + TGFb2-Goblet-True,Patient 4,TNFa + TGFb2,Goblet,True
+Patient 4-TNFa + TGFb2-Ionocytes-False,Patient 4,TNFa + TGFb2,Ionocytes,False
+Patient 4-TNFa + TGFb2-Ionocytes-True,Patient 4,TNFa + TGFb2,Ionocytes,True
+Patient 4-TNFa + TGFb2-Suprabasal-False,Patient 4,TNFa + TGFb2,Suprabasal,False
+Patient 4-TNFa + TGFb2-Suprabasal-True,Patient 4,TNFa + TGFb2,Suprabasal,True
+Patient 4-TNFa + TGFb2-Suprabasal prolif.-False,Patient 4,TNFa + TGFb2,Suprabasal prolif.,False
+Patient 4-TNFa + TGFb2-Suprabasal prolif.-True,Patient 4,TNFa + TGFb2,Suprabasal prolif.,True
+Patient 4-TNFa + TGFb2-Viral-False,Patient 4,TNFa + TGFb2,Viral,False
+Patient 4-TNFa + TGFb2-Viral-True,Patient 4,TNFa + TGFb2,Viral,True
+Patient 4-TNFa + TGFb2-unk-False,Patient 4,TNFa + TGFb2,unk,False
+Patient 4-TNFa + TGFb2-unk MT high cells-False,Patient 4,TNFa + TGFb2,unk MT high cells,False
+Patient 4-TNFa + TGFb2-unk MT high cells-True,Patient 4,TNFa + TGFb2,unk MT high cells,True
+Patient 4-TNFa + TGFb2-unk TMSB+ cells-False,Patient 4,TNFa + TGFb2,unk TMSB+ cells,False
+Patient 4-TNFa + Tirapazamine-Basal-False,Patient 4,TNFa + Tirapazamine,Basal,False
+Patient 4-TNFa + Tirapazamine-Basal-True,Patient 4,TNFa + Tirapazamine,Basal,True
+Patient 4-TNFa + Tirapazamine-Ciliated-False,Patient 4,TNFa + Tirapazamine,Ciliated,False
+Patient 4-TNFa + Tirapazamine-Ciliated-True,Patient 4,TNFa + Tirapazamine,Ciliated,True
+Patient 4-TNFa + Tirapazamine-Club-False,Patient 4,TNFa + Tirapazamine,Club,False
+Patient 4-TNFa + Tirapazamine-Club-True,Patient 4,TNFa + Tirapazamine,Club,True
+Patient 4-TNFa + Tirapazamine-Goblet-False,Patient 4,TNFa + Tirapazamine,Goblet,False
+Patient 4-TNFa + Tirapazamine-Goblet-True,Patient 4,TNFa + Tirapazamine,Goblet,True
+Patient 4-TNFa + Tirapazamine-Ionocytes-False,Patient 4,TNFa + Tirapazamine,Ionocytes,False
+Patient 4-TNFa + Tirapazamine-Ionocytes-True,Patient 4,TNFa + Tirapazamine,Ionocytes,True
+Patient 4-TNFa + Tirapazamine-Suprabasal-False,Patient 4,TNFa + Tirapazamine,Suprabasal,False
+Patient 4-TNFa + Tirapazamine-Suprabasal-True,Patient 4,TNFa + Tirapazamine,Suprabasal,True
+Patient 4-TNFa + Tirapazamine-Suprabasal prolif.-False,Patient 4,TNFa + Tirapazamine,Suprabasal prolif.,False
+Patient 4-TNFa + Tirapazamine-Suprabasal prolif.-True,Patient 4,TNFa + Tirapazamine,Suprabasal prolif.,True
+Patient 4-TNFa + Tirapazamine-Viral-False,Patient 4,TNFa + Tirapazamine,Viral,False
+Patient 4-TNFa + Tirapazamine-Viral-True,Patient 4,TNFa + Tirapazamine,Viral,True
+Patient 4-TNFa + Tirapazamine-unk-True,Patient 4,TNFa + Tirapazamine,unk,True
+Patient 4-TNFa + Tirapazamine-unk MT high cells-False,Patient 4,TNFa + Tirapazamine,unk MT high cells,False
+Patient 4-TNFa + Tirapazamine-unk MT high cells-True,Patient 4,TNFa + Tirapazamine,unk MT high cells,True
+Patient 4-Tirapazamine-Basal-False,Patient 4,Tirapazamine,Basal,False
+Patient 4-Tirapazamine-Basal-True,Patient 4,Tirapazamine,Basal,True
+Patient 4-Tirapazamine-Ciliated-False,Patient 4,Tirapazamine,Ciliated,False
+Patient 4-Tirapazamine-Ciliated-True,Patient 4,Tirapazamine,Ciliated,True
+Patient 4-Tirapazamine-Club-False,Patient 4,Tirapazamine,Club,False
+Patient 4-Tirapazamine-Club-True,Patient 4,Tirapazamine,Club,True
+Patient 4-Tirapazamine-Goblet-False,Patient 4,Tirapazamine,Goblet,False
+Patient 4-Tirapazamine-Goblet-True,Patient 4,Tirapazamine,Goblet,True
+Patient 4-Tirapazamine-Ionocytes-False,Patient 4,Tirapazamine,Ionocytes,False
+Patient 4-Tirapazamine-Ionocytes-True,Patient 4,Tirapazamine,Ionocytes,True
+Patient 4-Tirapazamine-Suprabasal-False,Patient 4,Tirapazamine,Suprabasal,False
+Patient 4-Tirapazamine-Suprabasal-True,Patient 4,Tirapazamine,Suprabasal,True
+Patient 4-Tirapazamine-Suprabasal prolif.-False,Patient 4,Tirapazamine,Suprabasal prolif.,False
+Patient 4-Tirapazamine-Suprabasal prolif.-True,Patient 4,Tirapazamine,Suprabasal prolif.,True
+Patient 4-Tirapazamine-Viral-False,Patient 4,Tirapazamine,Viral,False
+Patient 4-Tirapazamine-Viral-True,Patient 4,Tirapazamine,Viral,True
+Patient 4-Tirapazamine-unk-True,Patient 4,Tirapazamine,unk,True
+Patient 4-Tirapazamine-unk MT high cells-False,Patient 4,Tirapazamine,unk MT high cells,False
+Patient 4-Tirapazamine-unk MT high cells-True,Patient 4,Tirapazamine,unk MT high cells,True
+Patient 4-Tirapazamine-unk TMSB+ cells-False,Patient 4,Tirapazamine,unk TMSB+ cells,False
+Patient 4-mock-Basal-False,Patient 4,mock,Basal,False
+Patient 4-mock-Basal-True,Patient 4,mock,Basal,True
+Patient 4-mock-Ciliated-False,Patient 4,mock,Ciliated,False
+Patient 4-mock-Ciliated-True,Patient 4,mock,Ciliated,True
+Patient 4-mock-Club-False,Patient 4,mock,Club,False
+Patient 4-mock-Club-True,Patient 4,mock,Club,True
+Patient 4-mock-Goblet-False,Patient 4,mock,Goblet,False
+Patient 4-mock-Goblet-True,Patient 4,mock,Goblet,True
+Patient 4-mock-Ionocytes-False,Patient 4,mock,Ionocytes,False
+Patient 4-mock-Ionocytes-True,Patient 4,mock,Ionocytes,True
+Patient 4-mock-Suprabasal-False,Patient 4,mock,Suprabasal,False
+Patient 4-mock-Suprabasal-True,Patient 4,mock,Suprabasal,True
+Patient 4-mock-Suprabasal prolif.-False,Patient 4,mock,Suprabasal prolif.,False
+Patient 4-mock-Suprabasal prolif.-True,Patient 4,mock,Suprabasal prolif.,True
+Patient 4-mock-Viral-False,Patient 4,mock,Viral,False
+Patient 4-mock-Viral-True,Patient 4,mock,Viral,True
+Patient 4-mock-unk-False,Patient 4,mock,unk,False
+Patient 4-mock-unk-True,Patient 4,mock,unk,True
+Patient 4-mock-unk MT high cells-False,Patient 4,mock,unk MT high cells,False
+Patient 4-mock-unk MT high cells-True,Patient 4,mock,unk MT high cells,True
