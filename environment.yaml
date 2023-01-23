@@ -1,4 +1,4 @@
-name: py38_default
+name: py38_analysis
 
 channels:
    - bioconda

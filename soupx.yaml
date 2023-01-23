@@ -1,0 +1,15 @@
+name: r-soupx
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.9
+  - ipykernel
+  - scanpy
+  - rpy2
+  - anndata2ri
+  - r-base=4
+  - r-soupx
+  - r-devtools
+  - bioconductor-singlecellexperiment
+  - r-seurat
