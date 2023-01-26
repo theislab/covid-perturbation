@@ -12,6 +12,6 @@ dependencies:
    - conda-forge::jupyter_contrib_nbextensions
    - conda-forge::mscorefonts
    - bioconda::gprofiler-official
-   - pip
-   - pip:
+#   - pip
+#   - pip:
 #       - scgen==2.1.0
