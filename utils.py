@@ -112,3 +112,37 @@ def plot_correlation(df, col1, col2, margin_thresh = 30, expression_thresh = 25,
         plt.legend(handlelength=0, markerscale=0)
 
     return high_corr
+
+
+def plot_volcano(df, fc_thresh=2, logpval_thresh=50):
+    """Make a volcano plot from a rank_genes_groups dataframe.
+
+    Returns
+    -------
+    df
+        Modified dataframe with plot values.
+    up_genes
+        Genes with significantly increased differential expression.
+    down_genes
+        Genes with significantly decreased differential expression.
+    """
+    # remove genes with excessive logfoldchange caused by dropout
+    df = df[(df.logfoldchanges > -7) & (df.logfoldchanges < 7)]
+
+    # filter by thresholds
+    df['-log10(pvals)'] = -np.log10(df.pvals_adj.values)
+    df = df.replace(np.inf, 325)
+    sig_up = df[(df['logfoldchanges'] > fc_thresh) & (df['-log10(pvals)'] > logpval_thresh)].copy()
+    sig_down = df[(df['logfoldchanges'] < -fc_thresh) & (df['-log10(pvals)'] > logpval_thresh)].copy()
+
+    # grey - not significant
+    plt.scatter(df['logfoldchanges'].values, df['-log10(pvals)'].values, s=4, c='grey')
+    # red - up and significant
+    plt.scatter(sig_up['logfoldchanges'].values, sig_up['-log10(pvals)'].values, s=4, c='darkred')
+    # blue - down and significant
+    plt.scatter(sig_down['logfoldchanges'].values, sig_down['-log10(pvals)'].values, s=4)
+
+    plt.xlabel('logFC')
+    plt.ylabel('-log10(pvals)')
+    plt.xlim(-7, 7)  # to avoid plotting super high FC genes caused by dropout
+    return df, sig_up.names.values, sig_down.names.values
