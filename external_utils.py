@@ -62,3 +62,61 @@ def define_marker_genes(adata, clf, n_markers=5000):
     # add to .var
     adata.var['coef'] = coef
     adata.var['marker_genes'] = [v < lower or v > upper for v in coef]
+
+import scanpy as sc
+def perform_label_transfer(ref_emb, query_emb, cell_type_column, k=15):
+    # calculate an object representing the joing neighbor graph of ref + query
+    ing = sc.tl.Ingest(ref_emb)
+    ing.fit(query_emb)
+    ing.neighbors(k=k)
+    # calculate distances to top k neighbors for each cell and store indices
+    # of neighbor cells
+    top_k_distances, top_k_indices = (
+        ing._distances,
+        ing._indices,
+    )
+    # transform distances with Gaussian kernel (?)
+    stds = np.std(top_k_distances, axis=1)
+    stds = (2.0 / stds) ** 2  # don't know why the first 2.0
+    stds = stds.reshape(-1, 1)
+    top_k_distances_tilda = np.exp(-np.true_divide(top_k_distances, stds))
+    # normalize so that transformed distances sum to 1
+    weights = top_k_distances_tilda / np.sum(
+        top_k_distances_tilda, axis=1, keepdims=True
+    )
+    # initialize empty series to store predicted labels and matching
+    # uncertaintites for every query cell
+    uncertainties = pd.Series(index=query_emb.obs_names, dtype="float64")
+    pred_labels = pd.Series(index=query_emb.obs_names, dtype="object")
+    # now loop through query cells
+    y_train_labels = ref_emb.obs[cell_type_column].values
+    for i in range(len(weights)):
+        # store cell types present among neighbors in reference
+        unique_labels = np.unique(y_train_labels[top_k_indices[i]])
+        # store best label and matching probability so far
+        best_label, best_prob = None, 0.0
+        # now loop through all cell types present among the cell's neighbors:
+        for candidate_label in unique_labels:
+            candidate_prob = weights[
+                i, y_train_labels[top_k_indices[i]] == candidate_label
+            ].sum()
+            if best_prob < candidate_prob:
+                best_prob = candidate_prob
+                best_label = candidate_label
+        else:
+            pred_label = best_label
+        # store best label and matching uncertainty
+        uncertainties.iloc[i] = max(1 - best_prob, 0)
+        pred_labels.iloc[i] = pred_label
+    # print info
+    print(
+        "Storing transferred labels in your query adata under .obs column:",
+        f"transf_{cell_type_column}",
+    )
+    print(
+        "Storing label transfer uncertainties in your query adata under .obs column:",
+        f"transf_{cell_type_column}_unc",
+    )
+    # store results
+    query_emb.obs[f"transf_{cell_type_column}"] = pred_labels
+    query_emb.obs[f"transf_{cell_type_column}_unc"] = uncertainties
