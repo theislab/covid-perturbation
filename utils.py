@@ -117,6 +117,13 @@ def plot_correlation(df, col1, col2, margin_thresh = 30, expression_thresh = 25,
 def plot_volcano(df, fc_thresh=2, logpval_thresh=50):
     """Make a volcano plot from a rank_genes_groups dataframe.
 
+    Params
+    ------
+    fc_thresh : int (default: 2)
+        Cutoff for significant logfoldchange.
+    logpval_thresh : int (default: 50)
+        Cutoff for pval from stated as -log10(pvalue).
+
     Returns
     -------
     df
@@ -126,14 +133,19 @@ def plot_volcano(df, fc_thresh=2, logpval_thresh=50):
     down_genes
         Genes with significantly decreased differential expression.
     """
+    def pval(lfc):
+        """Function for relating -log10(pvalue) and logfoldchange in a reciprocal."""
+        return logpval_thresh/(lfc - fc_thresh)
+
     # remove genes with excessive logfoldchange caused by dropout
     df = df[(df.logfoldchanges > -7) & (df.logfoldchanges < 7)]
 
     # filter by thresholds
     df['-log10(pvals)'] = -np.log10(df.pvals_adj.values)
-    df = df.replace(np.inf, 325)
-    sig_up = df[(df['logfoldchanges'] > fc_thresh) & (df['-log10(pvals)'] > logpval_thresh)].copy()
-    sig_down = df[(df['logfoldchanges'] < -fc_thresh) & (df['-log10(pvals)'] > logpval_thresh)].copy()
+    df = df.replace(np.inf, 325)  # past where floating point turns the value to super low p-value to 0
+    signif = df[df['-log10(pvals)'] > pval(np.abs(df['logfoldchanges'].values))]  # according to the drawn reciprocal line
+    sig_up =  signif[signif['logfoldchanges'] > fc_thresh]
+    sig_down = signif[signif['logfoldchanges'] < -fc_thresh]
 
     # grey - not significant
     plt.scatter(df['logfoldchanges'].values, df['-log10(pvals)'].values, s=4, c='grey')
@@ -142,7 +154,15 @@ def plot_volcano(df, fc_thresh=2, logpval_thresh=50):
     # blue - down and significant
     plt.scatter(sig_down['logfoldchanges'].values, sig_down['-log10(pvals)'].values, s=4)
 
+    # plot cutoffs
+    x = np.array(range(100))/10
+    y = pval(x)
+    plt.plot(x, y, c='gray', ls='--', lw=1)
+    plt.plot(-x, y, c='gray', ls='--', lw=1)
+
     plt.xlabel('logFC')
     plt.ylabel('-log10(pvals)')
-    plt.xlim(-7, 7)  # to avoid plotting super high FC genes caused by dropout
+    plt.xlim(-7, 7)
+#    plt.ylim(-10, min(logpval_thresh*10, 335))
+    plt.ylim(-10, 335)
     return df, sig_up.names.values, sig_down.names.values
